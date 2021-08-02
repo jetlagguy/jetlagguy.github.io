@@ -1,0 +1,27 @@
+---
+title: "Contact me"
+description: |
+  Dr Steve, The Jet Lag Guy
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+### Let's talk about jet lag!
+
+Book Dr Steve for an [interview](media.html), to [keynote](keynotes.html) your next event, train your next [in-house workshop](workshops.html), for [strategic consulting](consulting.html) or to work one-on-one with your team
+
+<aside>
+Based in Melbourne, Australia.
+Available to speak and consult globally.
+</aside>
+
+Phone: +61 (0) 410 479 974
+
+Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
+
+
+
+
+
