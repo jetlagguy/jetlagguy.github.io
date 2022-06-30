@@ -5,17 +5,17 @@ date: "`r Sys.Date()`"
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(eval = FALSE, include = FALSE)
 ```
 
 Steps
-1. Open RStudio Cloud
+1. Open RStudio Cloud -- login with Github
 2. Open/New Project from github -- https://github.com/jetlagguy/jetlagguy
-3. Start session by installing distill -- https://rstudio.github.io/distill/blog.html
+3. Start session by installing distill etc -- https://rstudio.github.io/distill/blog.html
 4. Write/Edit posts (blog posts) and articles (pages)
-5. Knit the post to publish it
+5. Knit before you Git (Knit EVERY Rmd file you change *except this one*)
 6. Update menus via _site.yml
-7. Git commit + push
+7. Git -- TICK Staged, run usethis, click commit + push
 8. End session by saving history
 
 ```{r start session}
@@ -26,18 +26,23 @@ library(usethis)
 ```
 
 ```{r create or edit blog post}
-distill::create_post("Post title")
+distill::create_post("Insert new post title here")
+
 # paste linkedin article in the body here
 # edit posts by opening the Rmd file in -- _posts/date-title/post.Rmd
+
+# update the post yaml -- date, url, CC BY-ND
+# add images to taste ![](../../images/uploaded-image-name.png)
 # knitr the post to publish it
 
 ```
 
 ```{r git commit}
 # go to Git tab
-# check Staged for all files, commit then push
-usethis::use_git_config(user.name = "Jade Barclay", user.email = "jadebarclay@gmail.com")
-usethis::use_git_config(user.name = "JetLagGuy", user.email = "info@jetlagguy.com.au")
+# check Staged for all files, ctl+A select all and Tick
+# commit then push
+# usethis::use_git_config(user.name = "Jade Barclay", user.email = "jadebarclay@gmail.com")
+usethis::use_git_config(user.name = "jetlagguy", user.email = "info@jetlagguy.com.au")
 # Use github PAT as password for push
 ```
 

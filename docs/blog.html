@@ -2478,7 +2478,7 @@ function init_posts_list() {
     var src = $(img).attr('data-src');
     if (src) {
       $(img).attr('src', src);
-      $(img).load(function() {
+      $(img).on("load", function() {
         img.removeAttribute('data-src');
       });
     }
@@ -2524,6 +2524,7 @@ function init_posts_list() {
 
       // mark posts that match the category visible
       var page_category = window.location.hash.replace(/^#category:/, "");
+      page_category = decodeURIComponent(page_category)
       var posts = $('.post-metadata').map(function(idx, script) {
         var metadata = $.parseJSON($(script).html());
         var post = null;
@@ -2539,7 +2540,7 @@ function init_posts_list() {
       set_posts_visible(posts, true);
 
       // mark the hash active
-      $('.categories li>a[href="' + window.location.hash + '"]').addClass('active');
+      $('.categories li>a[href="' + decodeURIComponent(window.location.hash) + '"]').addClass('active');
 
       // update the list_caption
       var list_caption = $('.posts-list-caption');
@@ -2602,6 +2603,21 @@ function init_posts_list() {
 <div class="posts-container posts-apply-limit l-page">
 <div class="posts-list">
 <h1 class="posts-list-caption" data-caption="Dr Steve&#39;s Blog">Dr Steve's Blog</h1>
+<a href="posts/2022-06-23-jet-lag-the-logies/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">June 23, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Dr Steve Jasper</div>
+</div>
+</div>
+<div class="thumbnail"></div>
+<div class="description">
+<h2>Jet Lag &amp; the Logies</h2>
+<div class="dt-tags"></div>
+<p></p>
+</div>
+</a>
 <a href="posts/2021-07-21-game-of-zones/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
@@ -2640,12 +2656,14 @@ to predict the gold medal counts based on jet lag</p>
 <a href="posts/2020-01-17-flying-to-london/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":[]}</script>
 <div class="metadata">
-<div class="publishedDate">Jan. 16, 2020</div>
+<div class="publishedDate">Jan. 17, 2020</div>
 <div class="dt-authors">
 <div class="dt-author">Dr Steve Jasper</div>
 </div>
 </div>
-<div class="thumbnail"></div>
+<div class="thumbnail">
+<img/>
+</div>
 <div class="description">
 <h2>Flying to London, one city block at a time</h2>
 <div class="dt-tags"></div>

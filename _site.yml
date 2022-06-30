@@ -3,7 +3,7 @@ title: "The Jet Lag Guy"
 description: |
   Jet lag science for high performance in every time zone
 theme: theme.css
-favicon: olympic-jetlag.png
+favicon: images/blueclock.png
 output_dir: "docs"
 base_url: https://jetlagguy.com.au/
 twitter:
@@ -24,11 +24,12 @@ navbar:
   icon: fa fa-home-lg-alt
   href: index.html
   right:
-    - image: "images/olympic-jetlag.png"
-      text: "10 Predictions"
-      href: posts/2021-07-21-game-of-zones/index.html
     - text: "Work with me"
       href: work-with-me.html
+    - text: "MEQ quiz"
+      href: https://formfaca.de/sm/aVdLzff8a
+    - text: "Olympic Medal Predictions"
+      href: posts/2021-07-21-game-of-zones/index.html
 #    - text: "About"
 #      href: about.html
     - text: "Media"

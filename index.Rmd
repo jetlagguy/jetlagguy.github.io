@@ -1,6 +1,5 @@
 ---
 title: |
-  | ![](images/olympic-jetlag.png){height=76px}
   | Dr Steve Jasper
   | The Jet Lag Guy
 image: "images/steve-jasper-jetlagguy.jpg"
@@ -22,7 +21,7 @@ site: distill::distill_website
  
 ## The Jet Lag Guy
 
-#### ![](images/olympic-jetlag.png){height=20px} Olympic Games predictions
+#### Olympic Games predictions
 
 <aside>Dr Steve has predicted the gold medal counts for 10 countries based on jet lag science  
 </aside>
