@@ -1,0 +1,47 @@
+---
+title: "start_here"
+output: html_document
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Steps
+1. Open RStudio Cloud
+2. Open/New Project from github -- https://github.com/jetlagguy/jetlagguy
+3. Start session by installing distill -- https://rstudio.github.io/distill/blog.html
+4. Write/Edit posts (blog posts) and articles (pages)
+5. Knit the post to publish it
+6. Update menus via _site.yml
+7. Git commit + push
+8. End session by saving history
+
+```{r start session}
+install.packages("distill")
+install.packages("usethis")
+library(distill)
+library(usethis)
+```
+
+```{r create or edit blog post}
+distill::create_post("Post title")
+# paste linkedin article in the body here
+# edit posts by opening the Rmd file in -- _posts/date-title/post.Rmd
+# knitr the post to publish it
+
+```
+
+```{r git commit}
+# go to Git tab
+# check Staged for all files, commit then push
+usethis::use_git_config(user.name = "Jade Barclay", user.email = "jadebarclay@gmail.com")
+usethis::use_git_config(user.name = "JetLagGuy", user.email = "info@jetlagguy.com.au")
+# Use github PAT as password for push
+```
+
+```{r end session}
+savehistory()
+sessionInfo()
+```
