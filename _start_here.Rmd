@@ -2,6 +2,9 @@
 title: "start_here"
 output: html_document
 date: "`r Sys.Date()`"
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 ```{r setup, include=FALSE}
@@ -9,14 +12,25 @@ knitr::opts_chunk$set(eval = FALSE, include = FALSE)
 ```
 
 Steps
-1. Open RStudio Cloud -- login with Github
-2. Open/New Project from github -- https://github.com/jetlagguy/jetlagguy
-3. Start session by installing distill etc -- https://rstudio.github.io/distill/blog.html
-4. Write/Edit posts (blog posts) and articles (pages)
-5. Knit before you Git (Knit EVERY Rmd file you change *except this one*)
-6. Update menus via _site.yml
-7. Git -- TICK Staged, run usethis, click commit + push
-8. End session by saving history
+
+1.  Open RStudio Cloud -- login with Github
+
+2.  Open/New Project from github --
+    <https://github.com/jetlagguy/jetlagguy>
+
+3.  Start session by installing distill etc --
+    <https://rstudio.github.io/distill/blog.html>
+
+4.  Write/Edit posts (blog posts) and articles (pages)
+
+5.  Knit before you Git (Knit the Index.Rmd after EVERY file you change
+    *except this one*)
+
+6.  Update menus via \_site.yml
+
+7.  Git -- TICK Staged, run usethis, click commit + push
+
+8.  End session by saving history
 
 ```{r start session}
 install.packages("distill")
@@ -33,7 +47,7 @@ distill::create_post("Insert new post title here")
 
 # update the post yaml -- date, url, CC BY-ND
 # add images to taste ![](../../images/uploaded-image-name.png)
-# knitr the post to publish it
+# knitr the INDEX.Rmd to publish ANY updates to any other files
 
 ```
 
