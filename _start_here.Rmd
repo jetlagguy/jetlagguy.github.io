@@ -35,8 +35,10 @@ Steps
 ```{r start session}
 install.packages("distill")
 install.packages("usethis")
+install.packages("postcards")
 library(distill)
 library(usethis)
+library(postcards)
 ```
 
 ```{r create or edit blog post}
@@ -56,7 +58,7 @@ distill::create_post("Insert new post title here")
 # check Staged for all files, ctl+A select all and Tick
 # commit then push
 # usethis::use_git_config(user.name = "Jade Barclay", user.email = "jadebarclay@gmail.com")
-usethis::use_git_config(user.name = "jetlagguy", user.email = "info@jetlagguy.com.au")
+# usethis::use_git_config(user.name = "jetlagguy", user.email = "info@jetlagguy.com.au")
 # Use github PAT as password for push
 ```
 
