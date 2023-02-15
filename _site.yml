@@ -3,7 +3,7 @@ title: "The Jet Lag Guy"
 description: |
   Jet lag science for high performance in every time zone
 theme: theme.css
-favicon: 
+favicon: blueclock.png
 output_dir: "docs"
 base_url: https://jetlagguy.com.au/
 twitter:
