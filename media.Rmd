@@ -16,6 +16,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Interviews and Articles *Featuring* Dr Steve
 
+- [Travel across time zones and the implications for human performance post pandemic: Insights from elite sport -- *frontiers*](https://www.frontiersin.org/articles/10.3389/fpubh.2022.998484/full)
+- [‘Social jet lag’: Nightclub hours are hurting player performance at Australian Open -- *The Age*](https://www.theage.com.au/sport/tennis/social-jet-lag-nightclub-hours-are-hurting-player-performance-at-australian-open-20230123-p5ceqm.html)
 - [The power of power naps -- *Executive Traveller*](https://www.executivetraveller.com/power-nap-benefits-for-frequent-travellers) 
 - [Going for gold: why the Tokyo timezone could benefit Australian athletes in their medal hunt -- *RMIT*](https://www.rmit.edu.au/news/all-news/2021/jul/tokyo-olympics)
 - [Will the UK do better at the Paris or Tokyo Olympics? -- *BBC Radio*](https://www.bbc.co.uk/sounds/play/live:bbc_radio_gloucestershire/)
