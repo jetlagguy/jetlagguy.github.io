@@ -30,8 +30,8 @@ navbar:
       href: https://formfaca.de/sm/aVdLzff8a
     - text: "Olympic Medal Predictions"
       href: posts/2021-07-21-game-of-zones/index.html
-#    - text: "About"
-#      href: about.html
+    #    - text: "About"
+    #      href: about.html
     - text: "Media"
       href: media.html
     - text: "Blog"
