@@ -1,7 +1,7 @@
 ---
-title: |
-  | Dr Steve Jasper
-  | The Jet Lag Guy
+title: 
+  Dr Steve Jasper
+  The Jet Lag Guy
 image: "images/steve-jasper-jetlagguy.jpg"
 links:
   - label: LinkedIn
@@ -18,7 +18,7 @@ output:
   postcards::trestles
 site: distill::distill_website
 ---
- 
+
 ## The Jet Lag Guy
 
 #### Olympic Games predictions
