@@ -16,7 +16,7 @@ Steps
 1.  Open RStudio Cloud -- login with Github
 
 2.  Open/New Project from github --
-    <https://github.com/jetlagguy/jetlagguy>
+    <https://github.com/jetlagguy/jetlagguy.github.io>
 
 3.  Start session by installing distill etc --
     <https://rstudio.github.io/distill/blog.html>
