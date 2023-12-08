@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Interviews and Articles *Featuring* Dr Steve
 
+- [Mastering Jet Lag: The Ultimate Guide to Beating Travel Exhaustion - *The Menopause, Marriage and Motherhood Podcast*](https://speakuppodcasting.com/podcast/ep215-2/)
 - [Travel across time zones and the implications for human performance post pandemic: Insights from elite sport -- *frontiers*](https://www.frontiersin.org/articles/10.3389/fpubh.2022.998484/full)
 - [‘Social jet lag’: Nightclub hours are hurting player performance at Australian Open -- *The Age*](https://www.theage.com.au/sport/tennis/social-jet-lag-nightclub-hours-are-hurting-player-performance-at-australian-open-20230123-p5ceqm.html)
 - [The power of power naps -- *Executive Traveller*](https://www.executivetraveller.com/power-nap-benefits-for-frequent-travellers) 
