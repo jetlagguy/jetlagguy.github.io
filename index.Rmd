@@ -23,8 +23,7 @@ site: distill::distill_website
 
 #### Olympic Games predictions
 
-<aside>Dr Steve has predicted the gold medal counts for 10 countries based on jet lag science  
-</aside>
+<aside>Dr Steve has predicted the gold medal counts for 10 countries based on jet lag science</aside>
 
 - [Travel across time zones and the implications for human performance post pandemic: Insights from elite sport -- *Frontiers in Public Health*](https://www.frontiersin.org/articles/10.3389/fpubh.2022.998484/full)
 - ['Social jet lag': Nightclub hours are hurting player performance at Australian Open -- *The Age*](https://www.theage.com.au/sport/tennis/social-jet-lag-nightclub-hours-are-hurting-player-performance-at-australian-open-20230123-p5ceqm.html)
@@ -36,6 +35,7 @@ site: distill::distill_website
     
 
 #### Looking after your high flyers
+
 The science of alleviating jet lag is the key to success in international business (and elite sport!). Be at your peak when you go to work after a long international flight – and when you return home! If you have staff who frequently travel internationally, learn how you can best support them so they are happier when they travel, and perform better.
 
 Discover your personal Morningness or Eveningness Profile, and we can develop a tailored strategy based on your own body clock.
@@ -45,6 +45,7 @@ Discover your personal Morningness or Eveningness Profile, and we can develop a 
 - [Dr Stephen Jasper on *ABC Radio Melbourne* 23-01-2023](https://drive.google.com/file/d/1A_fzTEhHF7aVtiPhCfEoEWesFB9I7Y9T/view?usp=share_link)
 
 ## Work with me
+
 #### [Keynotes](keynotes.html)
 
 Understand the science of jet lag in a fun way, and take away some useful strategies for improving performance, presence, and productivity when it matters most.

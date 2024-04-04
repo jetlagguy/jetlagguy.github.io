@@ -38,6 +38,8 @@ navbar:
       href: blog.html
     - text: "Contact"
       href: contact.html
+    - text: "About"
+      href: about.html
     - icon: fas fa-envelope
       href: mailto:drsteve@jetlagguy.com.au
     - icon: fab fa-linkedin
