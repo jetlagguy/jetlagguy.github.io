@@ -1,8 +1,7 @@
 ---
 title: "Game of Zones"
 description: |
-  Olympic medal counts: Here's my attempt   
-  to predict the gold medal counts based on jet lag
+  Olympic medal counts: Here's my attempt to predict the gold medal counts based on jet lag
 author:
   - name: Dr Steve Jasper
     url: https://jetlagguy.com.au/posts/2021-07-21-game-of-zones
