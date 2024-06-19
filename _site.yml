@@ -29,9 +29,7 @@ navbar:
     - text: "MEQ quiz"
       href: https://formfaca.de/sm/aVdLzff8a
     - text: "Olympic Medal Predictions"
-      href: posts/2021-07-21-game-of-zones/index.html
-    #    - text: "About"
-    #      href: about.html
+      href: posts/2024-06-07-paris-olympics/index.html
     - text: "Media"
       href: media.html
     - text: "Blog"
