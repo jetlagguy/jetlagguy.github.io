@@ -5,6 +5,8 @@ author:
   - name: Dr Steve Jasper
     url: https://jetlagguy.com.au/posts/2021-07-21-game-of-zones
 date: 2021-07-21
+aliases:
+  - /posts/2021-07-21-game-of-zones
 # slug: jasper2021gameofzones
 # creative_commons: CC BY-ND
 ---

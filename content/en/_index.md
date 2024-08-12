@@ -2,14 +2,6 @@
 title:  Dr Steve Jasper
 description:  The Jet Lag Guy
 featured_image: "steve-jasper-jetlagguy.jpg"
-links:
-  - label: Email
-    url: "mailto:drsteve@jetlagguy.com.au"
-  - label: Work with me
-    url: "https://jetlagguy.com.au/work-with-me.html"
-output:
-  postcards::trestles
-site: distill::distill_website
 ---
 
 ## The Jet Lag Guy
@@ -38,18 +30,18 @@ Discover your personal Morningness or Eveningness Profile, and we can develop a 
 
 ## Services
 
-### [Keynotes](keynotes.html)
+### [Keynotes](/consulting/keynotes)
 
 Understand the science of jet lag in a fun way, and take away some useful strategies for improving performance, presence, and productivity when it matters most.
 
-### [Workshops](workshops.html)
+### [Workshops](/consulting/workshops)
 
 Tailor your flying strategy to your individual body clock. **12 different strategies** for minimising jet lag – fly anywhere in the world and be at your peak, no matter where you fly, how often you fly, or which end of the plane you fly!
 
-### [Consulting](consulting.html)
+### [Consulting](/consulting)
 
 Premium one-on-one consulting service for the busy executive who frequently travels internationally. We will work together to create a tailored strategy to minimise the impact of jet lag when you must perform and be at your best after every flight.
 
-### [Re-Timer Glasses](re-timer.html)
+### [Re-Timer Glasses](/re-timer)
 
 Re-Timer Glasses can help you adjust your body clock and overcome jet lag.

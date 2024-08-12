@@ -1,11 +1,12 @@
 ---
-title: "Work with me"
+title: "My Services"
 description: "Keynote Speaker and Consultant, *Dr Steve, The Jet Lag Guy*"
-output: distill::distill_article
+weight: 10
 ---
 
+I help international business travellers and frequent flyers understand and eliminate jet lag, and strategically improve their mental, physical, and business performance.
 
-### I help international business travellers and frequent flyers understand and eliminate jet lag, and strategically improve their mental, physical, and business performance.
+<!--more-->
 
 Jump direclty to [keynotes](keynotes.html), [in-house workshops](workshops.html), or [strategic consulting](consulting.html)</aside>
 
