@@ -5,7 +5,7 @@ description: Media interviews and articles about jet lag
 weight: 40
 ---
 
-**Interview Dr Steve** (![](images/olympic-jetlag.png) Challenge his gold medal predictions?!)
+**Interview Dr Steve** (![Olympic clocks](images/olympic-jetlag.png width=12) Challenge his gold medal predictions?!)
 
 *[Call Dr Steve now](tel:+61-410-479-974)*
 
