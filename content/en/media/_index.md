@@ -5,13 +5,15 @@ description: Media interviews and articles about jet lag
 weight: 40
 ---
 
-**Interview Dr Steve** (![Olympic clocks](images/olympic-jetlag.png width=12) Challenge his gold medal predictions?!)
+## Interview Dr Steve
+
+(![Olympic clocks](images/olympic-rings-emoji.png) Challenge his gold medal predictions?!)
 
 *[Call Dr Steve now](tel:+61-410-479-974)*
 
 *[Email to book an interview](mailto:bookings@jetlagguy.com.au)*
 
-### Interviews and Articles *Featuring* Dr Steve
+## Interviews and Articles *Featuring* Dr Steve
 
 - [Mastering Jet Lag: The Ultimate Guide to Beating Travel Exhaustion - *The Menopause, Marriage and Motherhood Podcast*](https://speakuppodcasting.com/podcast/ep215-2/)
 - [Travel across time zones and the implications for human performance post pandemic: Insights from elite sport -- *frontiers*](https://www.frontiersin.org/articles/10.3389/fpubh.2022.998484/full)
@@ -22,19 +24,19 @@ weight: 40
 - [The advantage Australian athletes have over most competitors at the Tokyo Olympics -- *3AW Radio*](https://www.3aw.com.au/the-advantage-australian-athletes-have-over-most-competitors-at-the-tokyo-olympics/)
 - [Hidden factor set to boost Aussie's gold rush -- *The Australian $*](https://www.theaustralian.com.au/sport/olympics/jet-lag-expert-predicting-gold-bonanza-for-australian-athletes-in-tokyo/news-story/888cd9ef3a252789e3cd491413d77d9d)
 
-### Jet Lag Articles *Written by* Dr Steve
+## Jet Lag Articles *Written by* Dr Steve
 
-#### 2021
+### 2021
 
 - [Game of Zones](https://www.linkedin.com/pulse/game-zones-dr-stephen-jasper/)
 - [Top 5 Things I've Learned in Isolation](https://www.linkedin.com/pulse/top-5-things-ive-learned-isolation-dr-stephen-jasper/)
 - [Flying to London, one city block at a time](https://www.linkedin.com/pulse/flying-london-one-city-block-time-dr-stephen-jasper/)
 
-#### 2020
+### 2020
 
 - [My boring passionate wardrobe](https://www.linkedin.com/pulse/my-boring-passionate-wardrobe-dr-stephen-jasper/)
 
-#### 2019
+### 2019
 
 - [I Don't, I Don't, I Don't, I Don't, I Don't](https://www.linkedin.com/pulse/i-dont-dr-stephen-jasper/)
 - [Horses, Jet Lag and the Melbourne Cup](https://www.linkedin.com/pulse/horses-jet-lag-stephen-jasper/)
@@ -44,7 +46,7 @@ weight: 40
 - [Stand By Your Lamb](https://www.linkedin.com/pulse/stand-your-lamb-stephen-jasper/)
 - [Hamsters, Viagra, and Jet Lag](https://www.linkedin.com/pulse/hamsters-viagra-jet-lag-stephen-jasper/)
 
-#### 2018
+### 2018
 
 - [Melatonin, Jet Lag, and the Nanny State](https://www.linkedin.com/pulse/melatonin-jet-lag-nanny-state-stephen-jasper/)
 - [Germs on a plane](https://www.linkedin.com/pulse/germs-plane-stephen-jasper/)
@@ -53,7 +55,7 @@ weight: 40
 - [What if we treated business travellers like élite athletes?](https://www.linkedin.com/pulse/what-we-treated-business-travellers-like-%C3%A9lite-athletes-jasper/)
 - [What kind of bird are you?](https://www.linkedin.com/pulse/what-kind-bird-you-stephen-jasper/)
 
-#### 2017
+### 2017
 
 - [Airports I hate](https://www.linkedin.com/pulse/airports-i-hate-stephen-jasper/)
 - [Favourite airports of mine](https://www.linkedin.com/pulse/favourite-airports-mine-stephen-jasper/)
@@ -69,7 +71,7 @@ weight: 40
 - [Why your teenagers are so damn grumpy](https://www.linkedin.com/pulse/why-your-teenagers-so-damn-grumpy-morning-stephen-jasper/)
 - [Five keys to successfully working across time zones](https://www.linkedin.com/pulse/five-keys-successfully-working-across-time-zones-stephen-jasper/)
 
-#### 2016
+### 2016
 
 - [Business travel in America](https://www.linkedin.com/pulse/business-travel-america-stephen-jasper/)
 - [Travelling for Christmas](https://www.linkedin.com/pulse/travelling-christmas-stephen-jasper/)
@@ -86,7 +88,7 @@ weight: 40
 - [Know thyself](https://www.linkedin.com/pulse/know-thyself-stephen-jasper/)
 - [Zen and the art of long distance flying](https://www.linkedin.com/pulse/zen-art-long-distance-flying-stephen-jasper/)
 
-#### 2015
+### 2015
 
 - [Why "get up an hour earlier" is BAD advice](https://www.linkedin.com/pulse/why-get-up-hour-earlier-bad-advice-stephen-jasper/)
 - [Caffeine, drinks and travel](https://www.linkedin.com/pulse/caffeine-drinks-travel-stephen-jasper/)
@@ -102,9 +104,10 @@ weight: 40
 - [Is your frequent flyer card making you fat?](https://www.linkedin.com/pulse/your-frequent-flyer-card-making-you-fat-stephen-jasper/)
 - [How to Beat the Jet Lag Monster](https://www.linkedin.com/pulse/how-beat-jet-lag-monster-stephen-jasper/)
 
-### Interview Dr Steve
+## Interview Dr Steve
 
 Based in Melbourne, Australia. Available for podcasts, interviews, and consulting globally.
 
-Phone: +61 (0) 410 479 974
+Phone: [+61 (0) 410 479 974](tel:+61-410-479-974)
+
 Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
