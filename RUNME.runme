@@ -1,0 +1,25 @@
+# Development Commands
+
+How to run a local web server to see your changes as you are working.
+
+## Local Server
+
+Remember to stop the server before starting a new one.
+
+With drafts:
+
+```sh {"background":"true","excludeFromRunAll":"true","id":"01J3M2J1W7CRXFKCCGQKD1FDTS"}
+hugo server --buildDrafts
+```
+
+With drafts, expired and future posts enabled:
+
+```sh {"background":"true","excludeFromRunAll":"true","id":"01J3KTBEV0N6D2FRG8BAMJD8XQ","interactive":"true","name":"server-debug"}
+hugo server --buildDrafts --buildExpired --buildFuture
+```
+
+Just the published posts:
+
+```sh {"background":"true","excludeFromRunAll":"true","id":"01J3KTGC4VMAHDS77NSYFRXMCC","interactive":"true","name":"server"}
+hugo server --gc
+```

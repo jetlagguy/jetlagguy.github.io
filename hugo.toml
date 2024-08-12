@@ -1,0 +1,86 @@
+baseURL = 'https://jetlagguy.com.au/'
+title = 'Dr Steve Jasper'
+languageCode = 'en-au'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+DefaultContentLanguage = "en"
+contentDir = "content/en"
+SectionPagesMenu = "main"
+Paginate = 9
+# googleAnalytics = ""
+enableRobotsTXT = false
+enableEmoji = true
+cleanDestinationDir = true
+copyright = "Dr Steve Jasper"
+enableGitInfo = true
+
+[languages]
+[languages.en]
+title = "Dr Steve Jasper"
+weight = 1
+contentDir = "content/en"
+
+[permalinks]
+[permalinks.page]
+# 'blog' = '/:year/:month/:slug/'
+'olympics' = '/olympics/:year/:slug/'
+
+[sitemap]
+changefreq = "weekly"
+priority = 0.5
+filename = "sitemap.xml"
+
+[fonts]
+use_google_fonts = true
+google_fonts_url = "https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300..700&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap"
+use_self_hosted_fonts = false
+logo = "Overpass"
+heading = "Overpass"
+base = "Overpass"
+monospace = "Overpass Mono"
+
+[params]
+author = "Dr Steve Jasper"
+description = "The Jet Lag Guy"
+favicon = ""
+site_logo = ""
+date_format = ":date_full"
+custom_css = ["tjlg.css"]
+omit_header_text = true
+text_color = "charcoal"                 # "charcoal", or "dark-gray"
+recent_posts_number = 3
+background_color_class = "bg-maroon"
+body_classes = "overpass bg-near-white"
+post_content_classes = "overpass"
+
+# [[params.ananke_socials]]
+# name = "e-mail"
+# url = "mailto:drsteve@jetlagguy.com.au"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/jasperstephen/"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/@TheJetLagGuy"
+
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://www.facebook.com/steve.jasper.965/"
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/DrSteveJasper/"
+
+# [[params.ananke_socials]]
+# name = "X"
+# url = "https://x.com/DrSteveJasper/"
+
+# tiktok
+
+# instagram?
+
+[[params.ananke_socials]]
+name = "rss"
+url = "/index.xml"

@@ -1,0 +1,26 @@
+.bg-maroon {
+    background-color: #8B001D
+}
+
+.bg-sky-blue {
+    background-color: #8BCCD8
+}
+
+.charcoal {
+    color: #333132
+}
+
+.overpass {
+    font-family: overpass,
+        sans-serif;
+}
+
+.overpass-mono {
+    font-family: overpass-mono,
+        sans-serif;
+}
+
+.athelas {
+    font-family: overpass,
+        sans-serif;
+}
