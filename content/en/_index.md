@@ -16,7 +16,7 @@ site: distill::distill_website
 
 ### Olympic Games predictions
 
-<aside>Dr Steve has predicted the gold medal counts for 10 countries based on jet lag science</aside>
+Dr Steve has predicted the gold medal counts for 10 countries based on jet lag science
 
 - [Travel across time zones and the implications for human performance post pandemic: Insights from elite sport -- *Frontiers in Public Health*](https://www.frontiersin.org/articles/10.3389/fpubh.2022.998484/full)
 - ['Social jet lag': Nightclub hours are hurting player performance at Australian Open -- *The Age*](https://www.theage.com.au/sport/tennis/social-jet-lag-nightclub-hours-are-hurting-player-performance-at-australian-open-20230123-p5ceqm.html)
