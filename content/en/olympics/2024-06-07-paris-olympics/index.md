@@ -1,6 +1,6 @@
 ---
 title: "Olympic Predictions for Paris, 2024"
-date: 06-07-2024
+date: 2024-06-07
 description: "Olympic medal counts: Here's my attempt to predict the gold medal counts based on jet lag"
 author: Dr Steve Jasper
 # url: https://jetlagguy.com.au/posts/2024-06-07-paris-olympics

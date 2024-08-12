@@ -4,7 +4,7 @@ description: "Olympic medal counts: Here's my attempt to predict the gold medal 
 author:
   - name: Dr Steve Jasper
     url: https://jetlagguy.com.au/posts/2021-07-21-game-of-zones
-date: 07-21-2021
+date: 2021-07-21
 # slug: jasper2021gameofzones
 # creative_commons: CC BY-ND
 ---
