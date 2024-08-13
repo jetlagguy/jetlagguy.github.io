@@ -1,3 +1,3 @@
-Repo for the jetlagguy.com.au website.
+# jetlagguy.com.au
 
-@DrSteveJasper knows way too much about about hamsters, viagara, and jet lag.
+Repository for the jetlagguy.com.au website.  Uses Hugo and the Ananke theme.
