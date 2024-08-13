@@ -12,9 +12,7 @@ tags:
 
 ## Olympic predictions for Paris, 2024
 
-Back in 2021 I published my Tokyo Olympic gold medal predictions (see below), and I think I did fairly well overall. Predicting Olympic gold medals is not an exact
-science, and there can be outliers – I can’t predict someone like Steven Bradbury.  However, I have shown that gold medal counts decrease when athletes cross
-multiple time zones, and silver medal counts increase (for more information click [here](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.998484/full)). So here are my predictions for the Paris Olympic Games in 2024:
+Back in 2021 I published my Tokyo Olympic gold medal predictions (see below), and I think I did fairly well overall. Predicting Olympic gold medals is not an exact science, and there can be outliers – I can’t predict someone like Steven Bradbury.  However, I have shown that gold medal counts decrease when athletes cross multiple time zones, and silver medal counts increase (for more information click [here](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.998484/full)). So here are my predictions for the Paris Olympic Games in 2024:
 
 ### Biggest winners:
 
@@ -27,7 +25,7 @@ multiple time zones, and silver medal counts increase (for more information clic
 * **Japan**: after hosting, they now have to deal with jet lag. Somewhere from 7-10 gold medals
 * **Australia**: jet lag is also an issue for Australia. Again, somewhere from 7-10 gold medals
 
-### Review of previous predictions: Tokyo, 2021
+## Review of previous predictions: Tokyo, 2021
 
 I published my Olympic gold medal predictions before the [Tokyo Olympics in 2021](/olympics/2021/game-of-zones/). Just as now, I went public with my predictions. Here are my predictions, with the actual results:
 
