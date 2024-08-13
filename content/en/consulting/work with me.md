@@ -8,7 +8,7 @@ I help international business travellers and frequent flyers understand and elim
 
 <!--more-->
 
-Jump direclty to [keynotes](keynotes.html), [in-house workshops](workshops.html), or [strategic consulting](consulting.html)</aside>
+<aside>Jump directly to [keynotes](keynotes.html), [in-house workshops](workshops.html), or [strategic consulting](consulting.html)</aside>
 
 Whether you travel for business or pleasure, you’ve likely experienced jet lag. For the millions of people who fly trans-continental or internationally each year, jet lag can be painfully real.
 
@@ -24,7 +24,7 @@ Managing jet lag is potentially one of the most valuable untapped areas of preve
 
 ## 6 years researching jet lag
 
-29 years in biotech, an MBA, and a PhD in jet lag and executive performance.
+<aside>29 years in biotech, an MBA, and a PhD in jet lag and executive performance.</aside>
 
 A qualified pharmacist with an understanding of human biology and international management, Dr Steve has dedicated himself to researching jet Lag. He has developed practical tools and individually tailored strategies to and improve individual jet lag recovery and reduce its negative physical, mental and economic impacts on performance.
 
@@ -32,7 +32,7 @@ Dr Steve holds a Bachelor of Pharmacy from the University of Sydney, an MBA and 
 
 ## My Methods
 
-I speak 4 languages and have a deep passion for jet lag research and recovery in business, sport, health and relationships.
+<aside>I speak 4 languages and have a deep passion for jet lag research and recovery in business, sport, health and relationships.</aside>
 
 By introducing you to the science of managing jet lag, I will demystify hidden aspects of chronobiology and performance management, and help your team to implement strategies that prevent jet lag and eliminate the negative impact on your people, profits, and performance.
 
@@ -46,8 +46,8 @@ Learn how my approach and services can help improve your team's performance...
 
 ### Book Dr Steve to speak at your next event
 
-Based in Melbourne, Australia.
-Available to speak and consult globally.
+<aside>Based in Melbourne, Australia.
+Available to speak and consult globally.</aside>
 
 Phone: +61 (0) 410 479 974
 
