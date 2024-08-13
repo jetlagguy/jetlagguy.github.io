@@ -9,13 +9,13 @@ Remember to stop the server before starting a new one.
 With drafts:
 
 ```sh {"background":"true","excludeFromRunAll":"true","id":"01J3M2J1W7CRXFKCCGQKD1FDTS"}
-hugo server --buildDrafts
+hugo server --gc --buildDrafts
 ```
 
 With drafts, expired and future posts enabled:
 
 ```sh {"background":"true","excludeFromRunAll":"true","id":"01J3KTBEV0N6D2FRG8BAMJD8XQ","interactive":"true","name":"server-debug"}
-hugo server --buildDrafts --buildExpired --buildFuture
+hugo server --gc --buildDrafts --buildExpired --buildFuture
 ```
 
 Just the published posts:
