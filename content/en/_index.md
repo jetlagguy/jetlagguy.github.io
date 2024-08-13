@@ -1,8 +1,8 @@
 ---
 title:  Dr Steve Jasper
 description:  The Jet Lag Guy
-featured_image: "steve-jasper-jetlagguy.jpg"
-toc: true
+cascade:
+  featured_image: "/images/steve-jasper-jetlagguy.jpg"
 ---
 
 ## The Jet Lag Guy
