@@ -9,7 +9,7 @@ tags:
   - business travel
 ---
 
-![image of a clock](images/blueclock.png "{ width='12' height='12' }" ) On the weekend there was the Logies, after a three year absence due to you-know-what, the virus that I refuse to mention out loud. The virus whose name I dare not speak in case I summon it again.
+![image of a clock](/images/blueclock.png) On the weekend there was the Logies, after a three year absence due to you-know-what, the virus that I refuse to mention out loud. The virus whose name I dare not speak in case I summon it again.
 
 <!--more-->
 
