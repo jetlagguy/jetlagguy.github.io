@@ -17,7 +17,6 @@ enableGitInfo = true
 [languages]
 [languages.en]
 title = "Dr Steve Jasper"
-weight = 1
 contentDir = "content/en"
 
 [permalinks]
@@ -42,8 +41,8 @@ monospace = "Overpass Mono"
 [params]
 author = "Dr Steve Jasper"
 description = "The Jet Lag Guy"
-favicon = "images/blueclock.png"
-site_logo = ""
+favicon = "/images/blueclock.png"
+site_logo = "/images/logo.png"
 date_format = ":date_full"
 custom_css = ["tjlg.css"]
 omit_header_text = true
