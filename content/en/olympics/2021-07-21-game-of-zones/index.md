@@ -141,4 +141,4 @@ Now, will these numbers have any accuracy, or will COVID-19 completely shred the
 
 And as always, ~~happy travels~~ stay at home!
 
-This article was [originally published on LinkedIn](https://www.linkedin.com/pulse/game-zones-dr-stephen-jasper) by Dr. Stephen Jasper, *Director of The Jet Lag Guy*.
+</aside>This article was [originally published on LinkedIn](https://www.linkedin.com/pulse/game-zones-dr-stephen-jasper) by Dr. Stephen Jasper, *Director of The Jet Lag Guy*.</aside>

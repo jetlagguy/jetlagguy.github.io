@@ -8,9 +8,7 @@ tags:
 weight: 40
 ---
 
-## Interview Dr Steve
-
-<aside>![Olympic clocks](/images/olympic-rings-emoji.png) Challenge his gold medal predictions?!</aside>
+<aside>**Interview Dr Steve** ![Olympic clocks](/images/olympic-rings-emoji.png) Challenge his gold medal predictions?!</aside>
 
 *[Call Dr Steve now](tel:+61-410-479-974)*
 
@@ -109,7 +107,7 @@ weight: 40
 
 ## Interview Dr Steve
 
-Based in Melbourne, Australia. Available for podcasts, interviews, and consulting globally.
+</aside>Based in Melbourne, Australia. Available for podcasts, interviews, and consulting globally.</aside>
 
 Phone: [+61 (0) 410 479 974](tel:+61-410-479-974)
 

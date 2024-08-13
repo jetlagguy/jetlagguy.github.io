@@ -32,5 +32,5 @@ Me in my non-existent apartment. Almost.
 
 And as always, happy travels staying at home!
 
-This article was [originally published on LinkedIn](https://www.linkedin.com/pulse/top-5-things-ive-learned-isolation-dr-stephen-jasper) by Dr. Stephen Jasper
-*Manager, Medical Affairs at Adjutor Healthcare*
+</aside>This article was [originally published on LinkedIn](https://www.linkedin.com/pulse/top-5-things-ive-learned-isolation-dr-stephen-jasper) by Dr. Stephen Jasper
+*Manager, Medical Affairs at Adjutor Healthcare*</aside>

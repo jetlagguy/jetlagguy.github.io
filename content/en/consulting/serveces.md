@@ -40,14 +40,11 @@ In [keynote presentations](keynotes.html), [in-house workshops](workshops.html),
 
 Learn how my approach and services can help improve your team's performance...
 
-### [Keynote Presentations](keynotes.html)  ::  [In-House Workshops](workshops.html)  ::  [Strategic Consulting](consulting.html)
-
 ## Contact me
 
 ### Book Dr Steve to speak at your next event
 
-<aside>Based in Melbourne, Australia.
-Available to speak and consult globally.</aside>
+<aside>Based in Melbourne, Australia. Available to speak and consult globally.</aside>
 
 Phone: +61 (0) 410 479 974
 
