@@ -1,17 +1,18 @@
 ---
 title: "Flying to London, one city block at a time"
-description: |
-  Flying to London walking up my points
-  on my Qantas Wellbeing app
-author:
-  - name: Dr Steve Jasper
-    url: https://jetlagguy.com.au/posts/2020-01-17-flying-to-london
+description: "Flying to London - walking up my points on my Qantas Wellbeing app"
+author: Dr Steve Jasper
 date: 2020-01-17
-slug: jasper2020flyingtolondon
-creative_commons: CC BY-ND
+tags:
+    - jet lag
+    - Qantas
+    - frequent flyer points
+    - healthy behaviour
 ---
 
 Life after a PhD is different. Mainly in that I’m no longer chained to a desk writing a thesis roughly the length of one of the longer Harry Potter novels (one of J. K. Rowling’s lesser known works, Harry Potter and the Jetlagged Executive).
+
+<!--more-->
 
 So, I’ve joined the gym, and I’m going every second day. I’ve taken up eating healthy food (kale! carrots! seaweed!) and quit sugar (which took some doing). I’ve committed to walking 10,000 steps a day, which is apparently the bare minimum it requires to be healthy.
 

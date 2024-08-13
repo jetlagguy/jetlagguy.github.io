@@ -2,6 +2,9 @@
 title: "Media"
 linkTitle: "Media"
 description: Media interviews and articles about jet lag
+tags:
+  - articles
+  - interviews
 weight: 40
 ---
 

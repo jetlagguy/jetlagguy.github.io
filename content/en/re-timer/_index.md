@@ -2,6 +2,9 @@
 title: "Re-Timer Glasses"
 linkTitle: "Re-Timer Glasses"
 description: "Re-Timer Glasses to help adjust your body clock"
+tags:
+  - re-timer
+  - re-timer glasses
 weight: 30
 ---
 

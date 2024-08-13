@@ -22,7 +22,7 @@ contentDir = "content/en"
 
 [permalinks]
 [permalinks.page]
-# 'blog' = '/:year/:month/:slug/'
+'blog' = '/blog/:year/:month/:slug/'
 'olympics' = '/olympics/:year/:slug/'
 
 [sitemap]

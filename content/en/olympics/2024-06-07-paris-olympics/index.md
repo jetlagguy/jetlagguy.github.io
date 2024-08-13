@@ -3,9 +3,11 @@ title: "Olympic Predictions for Paris, 2024"
 date: 2024-06-07
 description: "Olympic medal counts: Here's my attempt to predict the gold medal counts based on jet lag"
 author: Dr Steve Jasper
-# url: https://jetlagguy.com.au/posts/2024-06-07-paris-olympics
-# slug: jasper2024parisolympics
-# creative_commons: CC BY-ND
+tags:
+  - olympics
+  - olympic games
+  - Paris 2024
+  - jet lag
 ---
 
 ## Olympic predictions for Paris, 2024
@@ -27,7 +29,7 @@ multiple time zones, and silver medal counts increase (for more information clic
 
 ### Review of previous predictions: Tokyo, 2021
 
-I published my Olympic gold medal predictions before the [Tokyo Olympics in 2021](../2021-07-21-game-of-zones/index.html). Just as now, I went public with my predictions. Here are my predictions, with the actual results:
+I published my Olympic gold medal predictions before the [Tokyo Olympics in 2021](/olympics/2021/game-of-zones/). Just as now, I went public with my predictions. Here are my predictions, with the actual results:
 
 | Country         | Prediction | Actual | Error |
 | :-------------- | ---------: | -----: | ----: |

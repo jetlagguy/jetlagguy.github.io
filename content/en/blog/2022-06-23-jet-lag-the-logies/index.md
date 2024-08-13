@@ -1,17 +1,17 @@
 ---
 title: "Jet Lag & the Logies"
-description:
-author:
- - name: Dr Steve Jasper
-   url: https://jetlagguy.com.au/posts/2022-06-23-jet-lag-the-logies
+author: Dr Steve Jasper
 date: 2022-06-23
-slug: jasper2022jetlaglogies
-creative_commons: CC BY-ND
+tags:
+  - jet lag
+  - Logies
+  - Calum Scott
+  - business travel
 ---
 
-## Jet Lag and the Logies
-
 ![image of a clock](images/blueclock.png "{ width='12' height='12' }" ) On the weekend there was the Logies, after a three year absence due to you-know-what, the virus that I refuse to mention out loud. The virus whose name I dare not speak in case I summon it again.
+
+<!--more-->
 
 Anyway, at the Logies there was a performance by Calum Scott, who had flown out from the UK just before the Logies. And he delivered a brilliant performance at the Logies, considering how jetlagged he would have been, but in his own words he was "in the sky longer than he was on the ground".
 

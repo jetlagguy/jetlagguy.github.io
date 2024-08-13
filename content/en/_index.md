@@ -2,11 +2,12 @@
 title:  Dr Steve Jasper
 description:  The Jet Lag Guy
 featured_image: "steve-jasper-jetlagguy.jpg"
+toc: true
 ---
 
 ## The Jet Lag Guy
 
-### Olympic Games predictions
+### [Olympic Games predictions](/olympics/)
 
 Dr Steve has predicted the gold medal counts for 10 countries based on jet lag science
 
@@ -28,7 +29,7 @@ Discover your personal Morningness or Eveningness Profile, and we can develop a 
 - [Dr Stephen Jasper on *ABC Radio Canberra* 24-01-2023](https://drive.google.com/file/d/1RAcCmV0Taix0MdKt_c1wUeDUEEzrsUf8/view?usp=share_link)
 - [Dr Stephen Jasper on *ABC Radio Melbourne* 23-01-2023](https://drive.google.com/file/d/1A_fzTEhHF7aVtiPhCfEoEWesFB9I7Y9T/view?usp=share_link)
 
-## Services
+## [Services](/consulting)
 
 ### [Keynotes](/consulting/keynotes)
 
