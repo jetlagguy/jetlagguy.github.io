@@ -10,7 +10,7 @@ weight: 40
 
 ## Interview Dr Steve
 
-(![Olympic clocks](images/olympic-rings-emoji.png) Challenge his gold medal predictions?!)
+<aside>![Olympic clocks](/images/olympic-rings-emoji.png) Challenge his gold medal predictions?!</aside>
 
 *[Call Dr Steve now](tel:+61-410-479-974)*
 
