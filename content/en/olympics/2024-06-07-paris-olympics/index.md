@@ -4,11 +4,10 @@ date: 2024-06-07
 description: "Olympic medal counts: Here's my attempt to predict the gold medal counts based on jet lag"
 author: Dr Steve Jasper
 tags:
-  - olympics
   - olympic games
+  - olympics
   - Paris 2024
   - Tokyo 2021
-  - jet lag
 ---
 
 ## Olympic predictions for Paris, 2024

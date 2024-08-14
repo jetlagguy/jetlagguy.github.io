@@ -7,10 +7,9 @@ toc: true
 aliases:
   - /posts/2021-07-21-game-of-zones
 tags:
-  - olympics
   - olympic games
+  - olympics
   - Tokyo 2021
-  - jet lag
 ---
 
 The ~~2020~~ 2021 Tokyo Olympics are almost upon us, in the most unusual of times as the world is slowly emerging from the pandemic.
