@@ -7,6 +7,7 @@ tags:
   - olympics
   - olympic games
   - Paris 2024
+  - Tokyo 2021
   - jet lag
 ---
 

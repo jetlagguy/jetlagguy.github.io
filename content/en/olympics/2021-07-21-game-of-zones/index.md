@@ -9,7 +9,7 @@ aliases:
 tags:
   - olympics
   - olympic games
-  - tokyo 2020/21
+  - Tokyo 2021
   - jet lag
 ---
 
