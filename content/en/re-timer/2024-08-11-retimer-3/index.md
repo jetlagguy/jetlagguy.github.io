@@ -9,4 +9,4 @@ tags:
 
 This is a brief introduction to the new Re-Timer 3 jet lag goggles coming out soon.
 
-{{< youtube VHIUn7PSYlg >}}
+{{< youtube id=VHIUn7PSYlg >}}
