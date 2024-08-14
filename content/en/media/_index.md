@@ -1,18 +1,20 @@
 ---
-title: "Media"
+title: "In The Media"
 linkTitle: "Media"
 description: Media interviews and articles about jet lag
 tags:
+  - media
   - articles
   - interviews
 weight: 40
+summary: "Interviews and articles *featuring* Dr Steve, and jet lag articles *written by* Dr Steve"
 ---
 
 <aside>**Interview Dr Steve** ![Olympic clocks](/images/olympic-rings-emoji.png) Challenge his gold medal predictions?!</aside>
 
-*[Call Dr Steve now](tel:+61-410-479-974)*
+:phone: *[Call Dr Steve now](tel:+61-410-479-974)*
 
-*[Email to book an interview](mailto:bookings@jetlagguy.com.au)*
+:e-mail: *[Email to book an interview](mailto:bookings@jetlagguy.com.au)*
 
 ## Interviews and Articles *Featuring* Dr Steve
 
