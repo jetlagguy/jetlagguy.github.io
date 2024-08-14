@@ -1,7 +1,7 @@
 # To Do
 
 * Image resizing
-* favicon
+* ~~favicon not showing~~
 * left align section page text
 * How to cite in page footer
 * Content licensing: CC BY-ND 4.0
