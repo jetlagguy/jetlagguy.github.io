@@ -3,9 +3,9 @@ title: "Jet Lag & the Logies"
 author: Dr Steve Jasper
 date: 2022-06-23
 tags:
-  - jet lag
   - Logies
   - Calum Scott
+  - jet lag
   - business travel
 ---
 

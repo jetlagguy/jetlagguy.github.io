@@ -5,6 +5,7 @@ tags:
     - olympic games
     - olympics
     - Paris 2024
+    - jet lag
 ---
 
 I put my money where my mouth is, and I predict 26 or more gold medals for Team GB.

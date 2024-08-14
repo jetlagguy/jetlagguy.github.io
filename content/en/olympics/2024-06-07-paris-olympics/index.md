@@ -8,6 +8,7 @@ tags:
   - olympics
   - Paris 2024
   - Tokyo 2021
+  - jet lag
 ---
 
 ## Olympic predictions for Paris, 2024
