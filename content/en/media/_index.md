@@ -2,10 +2,6 @@
 title: "In The Media"
 linkTitle: "Media"
 description: Media interviews and articles about jet lag
-tags:
-  - media
-  - articles
-  - interviews
 weight: 40
 summary: "Interviews and articles *featuring* Dr Steve, and jet lag articles *written by* Dr Steve"
 ---
@@ -16,7 +12,7 @@ summary: "Interviews and articles *featuring* Dr Steve, and jet lag articles *wr
 
 :e-mail: *[Email to book an interview](mailto:bookings@jetlagguy.com.au)*
 
-## Interviews and Articles *Featuring* Dr Steve
+## [Interviews](/tags/interviews/) and [Articles](/tags/articles/) *Featuring* Dr Steve
 
 - [Mastering Jet Lag: The Ultimate Guide to Beating Travel Exhaustion - *The Menopause, Marriage and Motherhood Podcast*](https://speakuppodcasting.com/podcast/ep215-2/)
 - [Travel across time zones and the implications for human performance post pandemic: Insights from elite sport -- *frontiers*](https://www.frontiersin.org/articles/10.3389/fpubh.2022.998484/full)
@@ -27,7 +23,7 @@ summary: "Interviews and articles *featuring* Dr Steve, and jet lag articles *wr
 - [The advantage Australian athletes have over most competitors at the Tokyo Olympics -- *3AW Radio*](https://www.3aw.com.au/the-advantage-australian-athletes-have-over-most-competitors-at-the-tokyo-olympics/)
 - [Hidden factor set to boost Aussie's gold rush -- *The Australian $*](https://www.theaustralian.com.au/sport/olympics/jet-lag-expert-predicting-gold-bonanza-for-australian-athletes-in-tokyo/news-story/888cd9ef3a252789e3cd491413d77d9d)
 
-## Jet Lag Articles *Written by* Dr Steve
+## Jet Lag [Articles](/tags/articles/) *Written by* Dr Steve
 
 ### 2021
 
