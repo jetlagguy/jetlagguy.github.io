@@ -4,6 +4,21 @@ Source code for the website [The Jet Lag Guy](https://thejetlagguy.com).  Built 
 
 ## Adding Content
 
+* Run the server to preview your changes
+  See `RUNME.runme`
+* Create folder in the appropriate section (e.g. `content/en/blog`, `content/en/olympics`)
+* Create a new markdown file in that folder, index.md
+* Add front matter to the file
+  * title: the title of the post
+  * date: the date of the post
+  * tags: a list of tags for the post
+  * featured_image: the path to the featured image for the post
+* Add content to the file
+* Add images to the folder
+* Add featured_image to the front matter
+* Commit the changes
+* Push the changes
+
 ## Tags
 
 Here are some tags I anticipate you will use.  Add more as needed.
