@@ -1,6 +1,6 @@
 # The Jet Lag Guy website
 
-Source code for the website [The Jet Lag Guy](https://thejetlagguy.com).  Built with [Hugo](https://gohugo.io) and the Ananke theme.
+
 
 ## To do
 
@@ -8,12 +8,15 @@ Source code for the website [The Jet Lag Guy](https://thejetlagguy.com).  Built 
 
 * Add feature images to more pages
 * Convert raw links to posts, adding tags and some descriptive text
+* Decide on first or third person for text, and make it consistent
 
 ### Structure
 
-* Image resizing
 * MEQ redirect
+* Image resizing
+* \<aside> not displaying
 * Content licensing: CC BY-ND 4.0
 * How to cite instructions in page footer
 * ~~favicon not showing~~
 * ~~left align section page text~~
+
