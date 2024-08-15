@@ -1,6 +1,8 @@
 ---
 title: "Team GB for the win"
 date: 2024-07-26
+categories:
+  - olympic games
 tags:
     - olympic games
     - olympics

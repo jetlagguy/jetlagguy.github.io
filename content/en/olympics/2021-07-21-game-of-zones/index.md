@@ -6,6 +6,8 @@ date: 2021-07-21
 toc: true
 aliases:
   - /posts/2021-07-21-game-of-zones
+categories:
+  - olympic games
 tags:
   - olympic games
   - olympics

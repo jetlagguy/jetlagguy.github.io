@@ -1,6 +1,8 @@
 ---
 title: "Olympic Games 2024 Report Card"
 date: 2024-08-13
+categories:
+  - olympic games
 tags:
     - olympic games
     - olympics
