@@ -1,7 +1,5 @@
 # The Jet Lag Guy website
 
-
-
 ## To do
 
 ### Content
@@ -19,4 +17,4 @@
 * How to cite instructions in page footer
 * ~~favicon not showing~~
 * ~~left align section page text~~
-
+* ~~text width in section page~~
