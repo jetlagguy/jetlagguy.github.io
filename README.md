@@ -4,7 +4,7 @@ Source code for the website [The Jet Lag Guy](https://thejetlagguy.com).  Built 
 
 ## Adding Content
 
-* Run the server to preview your changes
+* Run the server to preview your changes, and open [http://localhost:1313/](http://localhost:1313/) in your browser.
   See `RUNME.runme`
 * Create folder in the appropriate section (e.g. `content/en/blog`, `content/en/olympics`)
 * Create a new markdown file in that folder, `index.md`
