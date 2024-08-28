@@ -77,7 +77,6 @@ summary: "Interviews and articles *featuring* Dr Steve, and jet lag articles *wr
 - [Exercise is useless](https://www.linkedin.com/pulse/exercise-useless-stephen-jasper/)
 - [What to do on the flight from hell](https://www.linkedin.com/pulse/what-do-flight-from-hell-stephen-jasper/)
 - [Sex and Jet Lag](https://www.linkedin.com/pulse/sex-jet-lag-stephen-jasper/)
-
 - [Racial differences and jet lag? It's still all about owls and fowls.](https://www.linkedin.com/pulse/racial-differences-jet-lag-its-still-all-owls-fowls-stephen-jasper/)
 - [Jet Lag article in Australasian Biotechnology (page 76)](https://www.linkedin.com/pulse/jet-lag-article-australasian-biotechnology-page-76-stephen-jasper/)
 - [Kick Jet Lag to the Kerb](https://www.linkedin.com/pulse/kick-jet-lag-kerb-stephen-jasper/)
