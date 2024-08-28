@@ -10,19 +10,27 @@
     color: #333132
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300..700&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+
 .overpass {
-    font-family: overpass,
-        sans-serif;
+    font-family: "Overpass", sans-serif;
+    font-optical-sizing: auto;
+    // font-weight: <weight>;
+    font-style: normal;
 }
 
 .overpass-mono {
-    font-family: overpass-mono,
-        sans-serif;
+    font-family: "Overpass Mono", monospace;
+    font-optical-sizing: auto;
+    // font-weight: <weight>;
+    font-style: normal;
 }
 
 .athelas {
-    font-family: overpass,
-        sans-serif;
+    font-family: "Overpass", sans-serif;
+    font-optical-sizing: auto;
+    // font-weight: <weight>;
+    font-style: normal;
 }
 
 table {
