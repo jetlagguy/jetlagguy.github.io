@@ -2,8 +2,6 @@
 title: "Olympic Games Predictions"
 linkTitle: "Olympic Predictions"
 description: "Dr Steve has predicted the gold medal counts for 10 countries based on jet lag science"
-cascade:
-  featured_image: '/images/olympic-feature.png'
 weight: 20
 ---
 
