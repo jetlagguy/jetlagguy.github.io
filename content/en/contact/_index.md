@@ -1,7 +1,7 @@
 ---
-title: "Contact me"
-linkTitle: "Contact"
 description: Dr Steve, The Jet Lag Guy
+linkTitle: Contact
+title: Contact me
 weight: 90
 ---
 
@@ -11,6 +11,6 @@ Book Dr Steve for an [interview](media.html), to [keynote](keynotes.html) your n
 
 </aside>Based in Melbourne, Australia. Available for podcasts, interviews, and consulting globally.</aside>
 
-Phone: +61 (0) 410 479 974
+Phone: **+61 (0) 410 479 974**
 
-Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
+Email: **[bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)**
