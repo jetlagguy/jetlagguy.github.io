@@ -7,6 +7,10 @@ cascade:
 
 ## The Jet Lag Guy
 
+### What's happening with The Jet Lag Guy
+
+{{< youtube id=fJUTHnDViW8 >}}
+
 ### [Olympic Games predictions](/olympics/)
 
 Dr Steve has predicted the gold medal counts for 10 countries based on jet lag science
