@@ -25,9 +25,9 @@ Here's my published academic paper on the effect of jet lag on Olympic medal tal
 
 {{< youtube id=Y-pKo1bR8GA >}}
 
-- [ABC News Breakfast interview 21 July 2024](https://www.youtube.com/watch?v=&t=10s)
+- [ABC News Breakfast interview 21 July 2024](https://www.youtube.com/watch?v=keGF7ullzao)
 
-{{< youtube id=Y-keGF7ullzao >}}
+{{< youtube id=keGF7ullzao >}}
 
 - [3AW interview 6 June 2024](https://www.3aw.com.au/why-australias-gold-medal-tally-in-paris-is-expected-to-be-cut-in-half/)
 
