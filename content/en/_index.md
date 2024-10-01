@@ -13,14 +13,40 @@ cascade:
 
 ### [Olympic Games predictions](/olympics/)
 
-Dr Steve has predicted the gold medal counts for 10 countries based on jet lag science
+#### Academic Article
 
-- [Travel across time zones and the implications for human performance post pandemic: Insights from elite sport -- *Frontiers in Public Health*](https://www.frontiersin.org/articles/10.3389/fpubh.2022.998484/full)
-- ['Social jet lag': Nightclub hours are hurting player performance at Australian Open -- *The Age*](https://www.theage.com.au/sport/tennis/social-jet-lag-nightclub-hours-are-hurting-player-performance-at-australian-open-20230123-p5ceqm.html)
-- [Going for gold: why the Tokyo timezone could benefit Australian athletes in their medal hunt -- *RMIT*](https://www.rmit.edu.au/news/all-news/2021/jul/tokyo-olympics)
-- [Will the UK do better at the Paris or Tokyo Olympics Games? -- *BBC Radio*](https://www.bbc.co.uk/sounds/play/live:bbc_radio_gloucestershire/)
+Here's my published academic paper on the effect of jet lag on Olympic medal tallies:
+
+[*Travel across time zones and the implications for human performance post pandemic: Insights from elite sport*](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.998484/full)
+
+#### Paris Olympics 2024
+
+- [Weekend Sunrise interview 20 July 2024:](https://www.youtube.com/watch?v=Y-pKo1bR8GA)
+
+{{< youtube id=Y-pKo1bR8GA >}}
+
+- [ABC News Breakfast interview 21 July 2024](https://www.youtube.com/watch?v=&t=10s)
+
+{{< youtube id=Y-keGF7ullzao >}}
+
+- [3AW interview 6 June 2024](https://www.3aw.com.au/why-australias-gold-medal-tally-in-paris-is-expected-to-be-cut-in-half/)
+
+- [My report card from the Paris Olympics](https://www.youtube.com/watch?v=Oy5lKwBGSAo)
+
+{{< youtube id=Oy5lKwBGSAo >}}
+
+
+#### Tokyo Olympics 2021
+
 - [The advantage Australian athletes have over most competitors at the Tokyo Olympics -- *3AW Radio*](https://www.3aw.com.au/the-advantage-australian-athletes-have-over-most-competitors-at-the-tokyo-olympics/)
+
 - [Hidden factor set to boost Aussie's gold rush -- *The Australian $*](https://www.theaustralian.com.au/sport/olympics/jet-lag-expert-predicting-gold-bonanza-for-australian-athletes-in-tokyo/news-story/888cd9ef3a252789e3cd491413d77d9d)
+- [Will the UK do better at the Paris or Tokyo Olympics Games? -- *BBC Radio*](https://www.bbc.co.uk/sounds/play/live:bbc_radio_gloucestershire/)
+- [Going for gold: why the Tokyo timezone could benefit Australian athletes in their medal hunt -- *RMIT*](https://www.rmit.edu.au/news/all-news/2021/jul/tokyo-olympics)
+
+#### Other media commentary
+
+- ['Social jet lag': Nightclub hours are hurting player performance at Australian Open -- *The Age*](https://www.theage.com.au/sport/tennis/social-jet-lag-nightclub-hours-are-hurting-player-performance-at-australian-open-20230123-p5ceqm.html)
 - [Jet lag cuts Olympic gold medal counts in half -- *The Tech of Sports*](https://techofsports.blubrry.net/dr-steve-jasper-the-jet-lag-guy/)
 
 ### Looking after your high flyers
