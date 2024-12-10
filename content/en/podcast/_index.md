@@ -1,9 +1,9 @@
 ---
 title: "Podcast"
 linkTitle: "Podcast"
-description: "Videos of podcast"
+description: "Coming soon!"
 weight: 85
 ---
 
-Coming soon, be ready for the launch at **00:00 1st January 2025** (Sydney/Melbourne time, UT +11)
+Coming soon, being launched at **00:00 1st January 2025** (Sydney/Melbourne time, UT +11)
 
