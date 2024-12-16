@@ -11,6 +11,8 @@ weight: 5
 
 Everything you wanted to know about jet lag in one handy to read place.
 
-Currently available as an e-book, with paperback and hard copy to follow very shortly.
+Available in both paperback and e-book form.
 
-Click [**here**](https://www.amazon.com.au/End-Jet-Lag-Practical-frequent-ebook/dp/B0DNSKJVQK/ref=sr_1_2?crid=3129KNNR23TJ6&dib=eyJ2IjoiMSJ9.5twiyE7lR1vvh4WwVRm7n_Qx3mBMdofVQA8HRWPPvMY.LohejNZbYzE42Dccw0-h98FALWdFh_QBKsdIC_EllzQ&dib_tag=se&keywords=end+jet+lag&qid=1733795473&sprefix=end+jet+lag%2Caps%2C280&sr=8-2) for your copy of the book!
+For the **paperback** click [**here**](https://www.amazon.com.au/dp/B0DQ7PKMGY/)
+
+For the **e-book** click [**here**](https://www.amazon.com.au/End-Jet-Lag-Practical-frequent-ebook/dp/B0DNSKJVQK/)
