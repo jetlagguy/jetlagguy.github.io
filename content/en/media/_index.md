@@ -6,7 +6,9 @@ weight: 40
 summary: "Interviews and articles *featuring* Dr Steve, and jet lag articles *written by* Dr Steve"
 ---
 
-<aside>**Interview Dr Steve** ![Olympic clocks](/images/olympic-rings-emoji.png) Challenge his gold medal predictions?!</aside>
+<aside><strong>Interview Dr Steve</strong> Challenge his gold medal predictions?!</aside>
+
+
 
 :phone: *[Call Dr Steve now](tel:+61-410-479-974)*
 

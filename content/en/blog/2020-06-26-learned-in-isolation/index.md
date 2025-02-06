@@ -8,6 +8,7 @@ tags:
     - COVID-19
     - yoga
     - online shopping
+toc: false
 ---
 
 It's been a while since I've done a top 5 here, so I'm overdue. As for most people, the last few months have been a very different reality. Here are my top 5 things I have learned in isolation:
@@ -30,7 +31,7 @@ Me in my non-existent apartment. Almost.
 
 **Number 1. I can still run my business.** Obviously, things are quiet on the jet lag front – the very few people who travel internationally are less concerned about jet lag, and more concerned about not contracting a potentially fatal disease. But there are things happening quietly in the background while we regroup, and hopefully develop a vaccine or treatment for coronavirus. You'll be hearing some exciting news soon!
 
-And as always, happy travels staying at home!
+<aside>This article was <a href="https://www.linkedin.com/pulse/top-5-things-ive-learned-isolation-dr-stephen-jasper">originally published on LinkedIn</a> by Dr. Stephen Jasper
+<em>Manager, Medical Affairs at Adjutor Healthcare</em></aside>
 
-</aside>This article was [originally published on LinkedIn](https://www.linkedin.com/pulse/top-5-things-ive-learned-isolation-dr-stephen-jasper) by Dr. Stephen Jasper
-*Manager, Medical Affairs at Adjutor Healthcare*</aside>
+And as always, happy travels staying at home!

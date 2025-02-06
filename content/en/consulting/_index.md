@@ -9,7 +9,7 @@ I help international business travellers and frequent flyers understand and elim
 
 <!--more-->
 
-<aside>Jump directly to [keynotes](keynotes.html), [in-house workshops](workshops.html), or [strategic consulting](consulting.html)</aside>
+<aside>Jump directly to <a href="/consulting/keynotes/">keynotes</a>, <a href="/consulting/workshops/">in-house workshops</a>, or <a href="/consulting/strategic-consulting/">strategic consulting</a>.</aside>
 
 Whether you travel for business or pleasure, you’ve likely experienced jet lag. For the millions of people who fly trans-continental or internationally each year, jet lag can be painfully real.
 
@@ -43,9 +43,9 @@ Learn how my approach and services can help improve your team's performance...
 
 ## Contact me
 
-### Book Dr Steve to speak at your next event
-
 <aside>Based in Melbourne, Australia. Available to speak and consult globally.</aside>
+
+### Book Dr Steve to speak at your next event
 
 Phone: +61 (0) 410 479 974
 

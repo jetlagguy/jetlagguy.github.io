@@ -15,7 +15,7 @@ For Steve:
 For Peter:
 
 [ ] Image resizing - only a problem for small inline images; use `{{< figure ... >}}` for larger images
-[ ] \<aside> not displaying
+[X] \<aside> not displaying
 [X] MEQ redirect -> using a button instead
 [X] favicon not showing
 [X] left align section page text

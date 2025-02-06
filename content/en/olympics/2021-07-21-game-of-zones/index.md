@@ -141,6 +141,6 @@ The other powerhouse. Unlike the European countries, the Americans are flying we
 
 Now, will these numbers have any accuracy, or will COVID-19 completely shred them? Will I proudly point to this column like I'm the Nostradamus of the Olympics, or will I quietly delete this and hope nobody notices? Will I then be forced to assume a new identity like I'm in the witness protection program? We'll find out in a few weeks.
 
-And as always, ~~happy travels~~ stay at home!
+<aside>This article was <a href="https://www.linkedin.com/pulse/game-zones-dr-stephen-jasper">originally published on LinkedIn</a> by Dr. Stephen Jasper, <em>Director of The Jet Lag Guy</em>.</aside>
 
-</aside>This article was [originally published on LinkedIn](https://www.linkedin.com/pulse/game-zones-dr-stephen-jasper) by Dr. Stephen Jasper, *Director of The Jet Lag Guy*.</aside>
+And as always, ~~happy travels~~ stay at home!

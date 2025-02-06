@@ -16,9 +16,9 @@ Life after a PhD is different. Mainly in that I’m no longer chained to a desk 
 
 So, I’ve joined the gym, and I’m going every second day. I’ve taken up eating healthy food (kale! carrots! seaweed!) and quit sugar (which took some doing). I’ve committed to walking 10,000 steps a day, which is apparently the bare minimum it requires to be healthy.
 
-To support me in this I downloaded the Qantas Wellbeing app, which Qantas is using to reward healthy behaviour. I’ve committed to walking 10,000 steps a day, and when I do I get a “WOOHOO!” message on my screen and 1.8 points per day. I’ve also committed to walking 80,000 steps a week (because 70,000 is just too easy), and for that little feat I get 9 points per week doing 80,000 steps. My total points per week is (1.8 × 7) + 9 = 21.6 points. My daily points come to 21.6 ÷ 7 = 3.09 points.
-
 <aside>At this point I need to issue a warning: The following LinkedIn article contains mathematical calculations.</aside>
+
+To support me in this I downloaded the Qantas Wellbeing app, which Qantas is using to reward healthy behaviour. I’ve committed to walking 10,000 steps a day, and when I do I get a “WOOHOO!” message on my screen and 1.8 points per day. I’ve also committed to walking 80,000 steps a week (because 70,000 is just too easy), and for that little feat I get 9 points per week doing 80,000 steps. My total points per week is (1.8 × 7) + 9 = 21.6 points. My daily points come to 21.6 ÷ 7 = 3.09 points.
 
 To fly to London, return, on points it would cost me 183,900 points. That’s a total distance of 16,893 km × 2 = 33,786 km. So, for every point I earn, I get to travel 33,786 km ÷ 183,900 points = 0.184 km = 184 metres. (At least I could do that calculation in my head!) Multiply that by the number of points I earn per day (3.09 points) and I get to travel 567 metres towards my destination of London. Just over half a kilometre per day, or two-and-a-half city blocks in downtown Melbourne.
 
@@ -34,5 +34,4 @@ And I like that.
 
 As always, happy travels!
 
-<aside>This article was [originally published on LinkedIn](https://www.linkedin.com/pulse/flying-london-one-city-block-time-dr-stephen-jasper) by Dr. Stephen Jasper
-*Manager, Medical Affairs at Adjutor Healthcare*</aside>
+<aside>This article was <a href="https://www.linkedin.com/pulse/flying-london-one-city-block-time-dr-stephen-jasper">originally published on LinkedIn</a> by Dr. Stephen Jasper <em>Manager, Medical Affairs at Adjutor Healthcare</em></aside>
