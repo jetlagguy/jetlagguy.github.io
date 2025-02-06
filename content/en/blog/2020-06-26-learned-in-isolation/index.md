@@ -1,6 +1,6 @@
 ---
 title: "Top 5 Things I've Learned in Isolation"
-description: zA few bright sides to these dark times
+description: A few bright sides to these dark times
 author: Dr Steve Jasper
 date: 2020-06-26
 tags:

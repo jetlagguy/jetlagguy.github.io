@@ -1,0 +1,3 @@
+[page]
+    'blog'     = '/blog/:year/:month/:slug/'
+    'olympics' = '/olympics/:year/:slug/'
