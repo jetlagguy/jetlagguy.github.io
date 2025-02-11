@@ -1,7 +1,7 @@
 ---
 title: "Podcast"
 linkTitle: "Podcast"
-description: "Coming soon!"
+description: "It's here!"
 weight: 85
 ---
 
