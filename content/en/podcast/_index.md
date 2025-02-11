@@ -5,5 +5,5 @@ description: "Coming soon!"
 weight: 85
 ---
 
-Coming soon, being launched at **00:00 1st January 2025** (Sydney/Melbourne time, UT +11)
+The podcast is up and running! Follow the link below to find out [**Whatever Happened to Baby Jet Lag?**](https://www.youtube.com/playlist?list=PL5qLroVCqm8iM8A0YjjyMmS6r_5Gmb67J)
 
