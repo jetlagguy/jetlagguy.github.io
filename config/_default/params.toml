@@ -1,7 +1,6 @@
 author                 = "Dr Steve Jasper"
 description            = "The Jet Lag Guy"
 favicon                = "/images/blueclock.png"
-site_logo              
 date_format            = ":date_full"
 custom_css             = ["tjlg.scss"]
 omit_header_text       = true
