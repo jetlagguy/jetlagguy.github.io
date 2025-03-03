@@ -1,6 +1,6 @@
 ---
 description: It's here!
-linkTitle: Podcast
+linkTitle: **Podcast**
 title: **Podcast**
 weight: 85
 ---
@@ -17,12 +17,10 @@ I talk about Lynne Peeples' new book and her method of research, public speaking
 
 
 
-
 **Episode 07 12/02/2025**
 {{< youtube id=PPUhCaq-D8A title="Episode 07" >}}
 
 I talk about the National Football League's plan to play in Melbourne, meeting Icelandic superstar Hera Björk, offering free jet lag workshops and the importance of branding.
-
 
 
 
@@ -33,12 +31,10 @@ In this episode I spill the tea on Robbie Williams, Meatloaf (the singer, not th
 
 
 
-
 **Episode 05 29/01/2025**
 {{< youtube id=WLMSX5hYKOM title="Episode 05" >}}
 
 Arthur Chan and I have fun with destination dupes, talk about 1:1 coaching for frequent business travellers, and the pros and cons of being a night owl.
-
 
 
 
@@ -49,18 +45,15 @@ I talk about peak holiday travel, my jet lag workshops and when I made a very pu
 
 
 
-
 **Episode 03 15/01/2025**{{< youtube id=FckcscQ67Is title="Episode 03" >}}
 
 In this episode of the jet lag podcast we talk about Iga Świątek's suspension from tennis, the End Jet Lag app and how drag queens do my marketing.
 
 
 
-
 **Episode 02 08/01/2025**{{< youtube id=F12fvgBoHmQ title="Episode 02" >}}
 
 In this episode of the jet lag podcast, we talk about Calvin Harris's unconventional treatment for jet lag (spoiler: it doesn't work), the Re-Timer glasses and why they do work, and the serious health consequences of untreated jet lag.
-
 
 
 
