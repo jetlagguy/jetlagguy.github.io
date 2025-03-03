@@ -19,7 +19,7 @@ post_content_classes   = "overpass"
 [ananke.social.share]
     icons     = true
     sharetext = true
-    networks  = ["linkedin", "facebook", "x-twitter", "bluesky", "email"]
+    networks  = ["linkedin", "facebook", "bluesky", "email"]
 
 [ananke.social.email]
     profilelink = "mailto:drsteve@jetlagguy.com.au"
@@ -30,11 +30,10 @@ post_content_classes   = "overpass"
 [ananke.social.youtube]
     profilelink = "https://www.youtube.com/@TheJetLagGuy"
 
-[ananke.social.facebook]
-    profilelink = "https://www.facebook.com/steve.jasper.965/"
+[ananke.social.bluesky]
+    profilelink = "https://bsky.app/profile/the-jet-lag-guy.bsky.social"
 
-[ananke.social.x-twitter]
-    profilelink = "https://x.com/DrSteveJasper/"
+
 
 
     # tiktok
