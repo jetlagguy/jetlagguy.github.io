@@ -9,10 +9,12 @@ The podcast is up and running! Follow the link below to find out [__Whatever Hap
 
 
 
+
 **Episode 08 19/02/2025**
 {{< youtube id=TGwBkn2-Cfg title="Episode 08" >}}
 
 I talk about Lynne Peeples' new book and her method of research, public speaking, and about how I should take my Re-Timer glasses everywhere I go (Arthur and I LOVE the new Re-Timer 3!). After all, you never know when you bump into an Icelandic superstar!
+
 
 
 
@@ -31,10 +33,13 @@ In this episode I spill the tea on Robbie Williams, Meatloaf (the singer, not th
 
 
 
+
 **Episode 05 29/01/2025**
 {{< youtube id=WLMSX5hYKOM title="Episode 05" >}}
 
 Arthur Chan and I have fun with destination dupes, talk about 1:1 coaching for frequent business travellers, and the pros and cons of being a night owl.
+
+
 
 
 **Episode 04 22/01/2025**
@@ -44,15 +49,18 @@ I talk about peak holiday travel, my jet lag workshops and when I made a very pu
 
 
 
+
 **Episode 03 15/01/2025**{{< youtube id=FckcscQ67Is title="Episode 03" >}}
 
 In this episode of the jet lag podcast we talk about Iga Świątek's suspension from tennis, the End Jet Lag app and how drag queens do my marketing.
 
 
 
+
 **Episode 02 08/01/2025**{{< youtube id=F12fvgBoHmQ title="Episode 02" >}}
 
 In this episode of the jet lag podcast, we talk about Calvin Harris's unconventional treatment for jet lag (spoiler: it doesn't work), the Re-Timer glasses and why they do work, and the serious health consequences of untreated jet lag.
+
 
 
 
