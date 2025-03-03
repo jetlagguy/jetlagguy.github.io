@@ -7,7 +7,8 @@ weight: 85
 
 The podcast is up and running! Follow the link below to find out [**Whatever Happened to Baby Jet Lag?**](https://www.youtube.com/playlist?list=PL5qLroVCqm8iM8A0YjjyMmS6r_5Gmb67J)
 
-[**Episode 08 19/02/2025**](https://www.youtube.com/watch?v=TGwBkn2-Cfg&list=PL5qLroVCqm8iM8A0YjjyMmS6r_5Gmb67J)
+
+[**Episode 08 19/02/2025**]{{< youtube id=TGwBkn2-Cfg title="Episode 08" >}}
 
 I talk about Lynne Peeples' new book and her method of research, public speaking, and about how I should take my Re-Timer glasses everywhere I go (Arthur and I LOVE the new Re-Timer 3!). After all, you never know when you bump into an Icelandic superstar!
 
