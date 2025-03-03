@@ -14,7 +14,7 @@ post_content_classes   = "overpass"
 
 [ananke.social.follow]
     new_window_icon = true
-    networks        = ["linkedin", "youtube", "facebook", "x-twitter", "rss"]
+    networks        = ["linkedin", "youtube", "bluesky", "rss"]
 
 [ananke.social.share]
     icons     = true
