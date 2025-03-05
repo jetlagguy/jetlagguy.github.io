@@ -7,44 +7,7 @@ title: Dr Steve Jasper
 
 ## The Jet Lag Guy
 
-### What's happening with The Jet Lag Guy
 
-{{< youtube id=fJUTHnDViW8 >}}
-
-### [Olympic Games predictions](/olympics/)
-
-#### Academic Article
-
-Here's my published academic paper on the effect of jet lag on Olympic medal tallies:
-
-[*Travel across time zones and the implications for human performance post pandemic: Insights from elite sport*](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.998484/full)
-
-#### Paris Olympics 2024
-
-- [Weekend Sunrise interview 20 July 2024:](https://www.youtube.com/watch?v=Y-pKo1bR8GA)
-
-{{< youtube id=Y-pKo1bR8GA >}}
-
-- [ABC News Breakfast interview 21 July 2024](https://www.youtube.com/watch?v=keGF7ullzao)
-
-{{< youtube id=keGF7ullzao >}}
-
-- [3AW interview 6 June 2024](https://www.3aw.com.au/why-australias-gold-medal-tally-in-paris-is-expected-to-be-cut-in-half/)
-- [My report card from the Paris Olympics](https://www.youtube.com/watch?v=Oy5lKwBGSAo)
-
-{{< youtube id=Oy5lKwBGSAo >}}
-
-#### Tokyo Olympics 2021
-
-- [The advantage Australian athletes have over most competitors at the Tokyo Olympics -- *3AW Radio*](https://www.3aw.com.au/the-advantage-australian-athletes-have-over-most-competitors-at-the-tokyo-olympics/)
-- [Hidden factor set to boost Aussie's gold rush -- *The Australian $*](https://www.theaustralian.com.au/sport/olympics/jet-lag-expert-predicting-gold-bonanza-for-australian-athletes-in-tokyo/news-story/888cd9ef3a252789e3cd491413d77d9d)
-- [Will the UK do better at the Paris or Tokyo Olympics Games? -- _BBC Radio_](https://www.bbc.co.uk/sounds/play/live:bbc_radio_gloucestershire/)
-- [Going for gold: why the Tokyo timezone could benefit Australian athletes in their medal hunt -- *RMIT*](https://www.rmit.edu.au/news/all-news/2021/jul/tokyo-olympics)
-
-#### Other media commentary
-
-- ['Social jet lag': Nightclub hours are hurting player performance at Australian Open -- *The Age*](https://www.theage.com.au/sport/tennis/social-jet-lag-nightclub-hours-are-hurting-player-performance-at-australian-open-20230123-p5ceqm.html)
-- [Jet lag cuts Olympic gold medal counts in half -- *The Tech of Sports*](https://techofsports.blubrry.net/dr-steve-jasper-the-jet-lag-guy/)
 
 ### Looking after your high flyers
 
