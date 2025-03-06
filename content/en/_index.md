@@ -7,8 +7,6 @@ title: Dr Steve Jasper
 
 ## The Jet Lag Guy
 
-
-
 ### Looking after your high flyers
 
 The science of alleviating jet lag is the key to success in international business (and elite sport!). Be at your peak when you go to work after a long international flight – and when you return home! If you have staff who frequently travel internationally, learn how you can best support them so they are happier when they travel, and perform better.
