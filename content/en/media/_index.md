@@ -6,7 +6,6 @@ weight: 40
 summary: "Interviews and articles *featuring* Dr Steve, and jet lag articles *written by* Dr Steve"
 ---
 
-<aside><strong>Interview Dr Steve</strong> Challenge his gold medal predictions?!</aside>
 
 
 
