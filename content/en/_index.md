@@ -7,7 +7,7 @@ title: Dr Steve Jasper
 
 ## The "End Jet Lag" book is now out!
 
-`{{< figure src="241120 End Jet Lag COVER.jpg" alt="END JET LAG book" link="https://www.amazon.com.au/End-Jet-Lag-Practical-frequent-ebook/dp/B0DNSKJVQK/ref=sr_1_2?crid=3129KNNR23TJ6&dib=eyJ2IjoiMSJ9.5twiyE7lR1vvh4WwVRm7n_Qx3mBMdofVQA8HRWPPvMY.LohejNZbYzE42Dccw0-h98FALWdFh_QBKsdIC_EllzQ&dib_tag=se&keywords=end+jet+lag&qid=1733795473&sprefix=end+jet+lag%2Caps%2C280&sr=8-2">}}`
+`{{< figure src="book/241120 End Jet Lag COVER.jpg" alt="END JET LAG book" link="https://www.amazon.com.au/End-Jet-Lag-Practical-frequent-ebook/dp/B0DNSKJVQK/ref=sr_1_2?crid=3129KNNR23TJ6&dib=eyJ2IjoiMSJ9.5twiyE7lR1vvh4WwVRm7n_Qx3mBMdofVQA8HRWPPvMY.LohejNZbYzE42Dccw0-h98FALWdFh_QBKsdIC_EllzQ&dib_tag=se&keywords=end+jet+lag&qid=1733795473&sprefix=end+jet+lag%2Caps%2C280&sr=8-2">}}`
 
 If you've ever battled with jet lag for travel, this book is a valuable resource. Filled with useful information backed up by the latest science, this is an easy-to-read guide for the layperson who wants to master their jet lag. For more information, click [here](https://jetlagguy.com.au/book/)
 
