@@ -7,6 +7,27 @@ weight: 85
 
 The podcast is up and running! Follow the link below to find out [__Whatever Happened to Baby Jet Lag?__](https://www.youtube.com/playlist?list=PL5qLroVCqm8iM8A0YjjyMmS6r_5Gmb67J)
 
+## Episode 11 19/02/2025
+
+{{< youtube id=261Uq9x-nWA title="Episode 11" >}}
+
+We talk about Giorgio Varesco's work with Canadian speed skaters and how they overcame jet lag, when are the best times to wear the Re-Timer jet lag glasses, and the importance of social media in launching a modern business.
+
+
+## Episode 10 19/02/2025
+
+{{< youtube id=MTIFjOjYdUM title="Episode 10" >}}
+
+In this episode we discuss a misdiagnosis of jet lag, running a vodcast and a teaser of an exciting new project in the area of children's literature.
+
+
+## Episode 09 26/02/2025
+
+{{< youtube id=Ff2pRK_f5QU title="Episode 09" >}}
+
+Today I review Lynne Peeples' book "The Inner Clock" and give it a 5-star rating, I discuss my own book "End Jet Lag", and the importance of Haigh's chocolate frogs for conducting research.
+
+
 ## Episode 08 19/02/2025
 
 {{< youtube id=TGwBkn2-Cfg title="Episode 08" >}}
