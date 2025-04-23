@@ -7,6 +7,48 @@ weight: 85
 
 The podcast is up and running! Follow the link below to find out [__Whatever Happened to Baby Jet Lag?__](https://www.youtube.com/playlist?list=PL5qLroVCqm8iM8A0YjjyMmS6r_5Gmb67J)
 
+## Episode 17 23/04/2025
+
+{{< youtube id=VSmnTokCW80 title="Episode 17" >}}
+
+I discuss the latest data regarding circadian rhythm disturbances and metabolic disorders, my upcoming interview with Professor Leon Lack, and the challenges of formatting when publishing books online.
+
+
+## Episode 16 16/04/2025
+
+{{< youtube id=MaiMhPI48LY title="Episode 16" >}}
+
+We talk about rugby league teams in the NRL playing in Las Vegas and the potential impact of jet lag, my upcoming interview with Dr Giorgio Varesco and his work with speed skaters (and of course, we HAVE to mention Steven Bradbury!) and the ins and outs of running two podcasts.
+
+
+## Episode 15 09/04/2025
+
+{{< youtube id=X-pIHaY7QlM title="Episode 15" >}}
+
+We talk about the The Kyle and Jackie O Show's Jackie O being a complete failure as a parent (just kidding Jackie!), an upcoming episode of the new podcast where James Wilson and I talk about sleep b*llocks, and the tedious aspects of running a small business, setting up structures such as Website Wednesday and Financial Friday.
+
+
+## Episode 14 02/04/2025
+
+{{< youtube id=BQhfpDQi7ng title="Episode 14" >}}
+
+Arthur and I discuss the impact of daylight savings time, my interview with Dr Jill McGarry (and why you never need to get up in the middle of the night to do a #2), and why you don't need to put a red light in your fridge or decorate the inside of your fridge so it looks like the set of Bridgerton.
+
+
+## Episode 13 26/03/2025
+
+{{< youtube id=Zb13_5n3R8s title="Episode 13" >}}
+
+Usha Vance, the US Vice-President's wife cites jet lag for cancelling events in Italy, I talk about the new podcast series (starting with an interview with Lynne Peeples), and why I use the nightmare fuel of AI-generated clocks to represent jet lag.
+
+
+## Episode 12 19/03/2025
+
+{{< youtube id=9YWWYoI6qHo title="Episode 12" >}}
+
+We talk about Professor Martin Moore-Ede's book "The Light Doctor" and why we are so sensitive to sky blue coloured light, discuss this YouTube channel, and managing your time as an entrepreneur.
+
+
 ## Episode 11 12/03/2025
 
 {{< youtube id=261Uq9x-nWA title="Episode 11" >}}
