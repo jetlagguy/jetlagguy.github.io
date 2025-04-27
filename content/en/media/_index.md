@@ -1,7 +1,7 @@
 ---
-title: "In The Media"
+title: "Media"
 linkTitle: "Media"
-description: Media interviews and articles about jet lag
+description: Selected media interviews and social media links
 weight: 40
 summary: "Interviews and articles *featuring* Dr Steve, and jet lag articles *written by* Dr Steve"
 ---
