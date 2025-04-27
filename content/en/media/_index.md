@@ -21,7 +21,7 @@ https://studio.youtube.com/video/Y-pKo1bR8GA
 ### ABC News Breakfast 21 July 2024
 https://studio.youtube.com/video/keGF7ullzao/edit
 
-### 3AW add date
+### 3AW 6 June 2024
 https://www.3aw.com.au/why-australias-gold-medal-tally-in-paris-is-expected-to-be-cut-in-half/
 
 ## Social Media
