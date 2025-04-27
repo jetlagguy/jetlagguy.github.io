@@ -5,7 +5,13 @@ description: The Jet Lag Guy
 title: Dr Steve Jasper
 ---
 
-## The "End Jet Lag" book is now out!
+## Ben Flies to London is now out
+For children who travel and wonder why they feel topsy-turvy, _Ben Flies to London_ explains jet lag to young children in a way they can understand. Perfect reading for a long-distance flight!
+
+## Companion colouring-in book for Ben Flies to London
+This can keep them amused for a long-distance flight, and they can learn more about jet lag!
+
+## End Jet Lag
 
 `{{< figure src="book/241120 End Jet Lag COVER.jpg" alt="END JET LAG book" link="https://www.amazon.com.au/End-Jet-Lag-Practical-frequent-ebook/dp/B0DNSKJVQK/ref=sr_1_2?crid=3129KNNR23TJ6&dib=eyJ2IjoiMSJ9.5twiyE7lR1vvh4WwVRm7n_Qx3mBMdofVQA8HRWPPvMY.LohejNZbYzE42Dccw0-h98FALWdFh_QBKsdIC_EllzQ&dib_tag=se&keywords=end+jet+lag&qid=1733795473&sprefix=end+jet+lag%2Caps%2C280&sr=8-2">}}`
 
