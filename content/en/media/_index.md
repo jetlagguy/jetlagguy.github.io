@@ -15,17 +15,20 @@ Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
 
 ## Media Interviews
 
-### Weekend Sunrise 20 July 2024
-https://studio.youtube.com/video/Y-pKo1bR8GA
+### [Weekend Sunrise 20 July 2024](https://studio.youtube.com/video/Y-pKo1bR8GA)
 
-### ABC News Breakfast 21 July 2024
-https://studio.youtube.com/video/keGF7ullzao/edit
+### [ABC News Breakfast 21 July 2024](https://studio.youtube.com/video/keGF7ullzao)
 
-### 3AW 6 June 2024
-https://www.3aw.com.au/why-australias-gold-medal-tally-in-paris-is-expected-to-be-cut-in-half/
+### [3AW 6 June 2024](https://www.3aw.com.au/why-australias-gold-medal-tally-in-paris-is-expected-to-be-cut-in-half/)
 
-### David Meltzer 23 July 2024
-https://studio.youtube.com/video/F6ZISPhssWo/edit
+### [David Meltzer 23 July 2024](https://studio.youtube.com/video/F6ZISPhssWo)
+
+### [Executive Traveller: _The power of power naps_](https://www.executivetraveller.com/power-nap-benefits-for-frequent-travellers)
+
+### [ABC Radio Canberra 24 January 2023](https://drive.google.com/file/d/1RAcCmV0Taix0MdKt_c1wUeDUEEzrsUf8/view?usp=share_link)
+
+### [ABC Radio Melbourne 23 January 2023](https://drive.google.com/file/d/1A_fzTEhHF7aVtiPhCfEoEWesFB9I7Y9T/view?usp=share_link)
+
 
 ## Social Media
 

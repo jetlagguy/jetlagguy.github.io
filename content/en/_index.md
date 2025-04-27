@@ -18,9 +18,7 @@ The science of alleviating jet lag is the key to success in international busine
 
 Discover your personal Morningness or Eveningness Profile, and we can develop a tailored strategy based on your own body clock.
 
-- [The power of power naps -- *Executive Traveller*](https://www.executivetraveller.com/power-nap-benefits-for-frequent-travellers)
-- [Dr Stephen Jasper on _ABC Radio Canberra_ 24-01-2023](https://drive.google.com/file/d/1RAcCmV0Taix0MdKt_c1wUeDUEEzrsUf8/view?usp=share_link)
-- [Dr Stephen Jasper on _ABC Radio Melbourne_ 23-01-2023](https://drive.google.com/file/d/1A_fzTEhHF7aVtiPhCfEoEWesFB9I7Y9T/view?usp=share_link)
+
 
 ## [Services](/consulting)
 
