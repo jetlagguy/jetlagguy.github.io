@@ -24,6 +24,9 @@ https://studio.youtube.com/video/keGF7ullzao/edit
 ### 3AW 6 June 2024
 https://www.3aw.com.au/why-australias-gold-medal-tally-in-paris-is-expected-to-be-cut-in-half/
 
+### David Meltzer 23 July 2024
+https://studio.youtube.com/video/F6ZISPhssWo/edit
+
 ## Social Media
 
 ### LinkedIn
