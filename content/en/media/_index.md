@@ -31,7 +31,9 @@ Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
 
 {{< youtube id=F6ZISPhssWo title="David Meltzer 23 July 2024" >}}
 
-### [Executive Traveller: _The power of power naps_](https://www.executivetraveller.com/power-nap-benefits-for-frequent-travellers)
+### Executive Traveller: _The power of power naps_
+
+{{< figure src="https://www.executivetraveller.com/photos/view/size:1200,675/64a75d489f284ccc88f67efedd799465-power-nap-alarm-clock.jpg" link="https://www.executivetraveller.com/power-nap-benefits-for-frequent-travellers">}}
 
 ### [ABC Radio Canberra 24 January 2023](https://drive.google.com/file/d/1RAcCmV0Taix0MdKt_c1wUeDUEEzrsUf8/view?usp=share_link)
 
