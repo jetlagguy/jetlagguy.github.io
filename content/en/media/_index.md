@@ -23,7 +23,9 @@ Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
 
 {{< youtube id=keGF7ullzao title="ABC News Breakfast 21 July 2024" >}}
 
-### [3AW 6 June 2024](https://www.3aw.com.au/why-australias-gold-medal-tally-in-paris-is-expected-to-be-cut-in-half/)
+### 3AW 6 June 2024
+
+{{< figure src="https://www.3aw.com.au/wp-content/uploads/sites/12/2024/06/olympicmedal-getty-1200x800.jpg" link="https://www.3aw.com.au/why-australias-gold-medal-tally-in-paris-is-expected-to-be-cut-in-half/">}}
 
 ### David Meltzer 23 July 2024
 
