@@ -15,13 +15,13 @@ Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
 
 ## Media Interviews
 
-### [Weekend Sunrise 20 July 2024](https://studio.youtube.com/video/Y-pKo1bR8GA)
+### [Weekend Sunrise 20 July 2024](https://youtube.com/video/Y-pKo1bR8GA)
 
-### [ABC News Breakfast 21 July 2024](https://studio.youtube.com/video/keGF7ullzao)
+### [ABC News Breakfast 21 July 2024](https://youtube.com/video/keGF7ullzao)
 
 ### [3AW 6 June 2024](https://www.3aw.com.au/why-australias-gold-medal-tally-in-paris-is-expected-to-be-cut-in-half/)
 
-### [David Meltzer 23 July 2024](https://studio.youtube.com/video/F6ZISPhssWo)
+### [David Meltzer 23 July 2024](https://youtube.com/video/F6ZISPhssWo)
 
 ### [Executive Traveller: _The power of power naps_](https://www.executivetraveller.com/power-nap-benefits-for-frequent-travellers)
 
