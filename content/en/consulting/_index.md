@@ -15,6 +15,8 @@ Whether you travel for business or pleasure, you’ve likely experienced jet lag
 
 As a specialist consultant and speaker with a PhD in jet lag and executive performance, Dr Stephen Jasper is at the forefront of the latest technology and science in the management of jet lag.
 
+</br>
+
 ## Why jet lag matters
 
 The science of effectively managing jet lag can improve personal performance, relationships and the company’s bottom line.
@@ -22,6 +24,8 @@ The science of effectively managing jet lag can improve personal performance, re
 Jet lag not only affects the person flying, but also affects their team and loved ones back home. Frequent business travel is a scientifically-proven factor in stress, weight gain, cognitive and physical performance, and has even been shown to lead to increased rates of spousal stress and divorce.
 
 Managing jet lag is potentially one of the most valuable untapped areas of preventative intervention for business performance and wellbeing.
+
+</br>
 
 ## 6 years researching jet lag
 
@@ -31,6 +35,8 @@ A qualified pharmacist with an understanding of human biology and international 
 
 Dr Steve holds a Bachelor of Pharmacy from the University of Sydney, an MBA and PhD from RMIT University. He speaks several languages and studied European Union studies at Århus University, Denmark. Dr Steve has worked internationally in pharmaceutical roles with companies such as CSL, Sigma Pharmaceuticals, GSK, Bristol-Myers Squibb and Swisse.
 
+</br>
+
 ## My Methods
 
 <aside>I speak 4 languages and have a deep passion for jet lag research and recovery in business, sport, health and relationships.</aside>
@@ -39,7 +45,9 @@ By introducing you to the science of managing jet lag, I will demystify hidden a
 
 In [keynote presentations](keynotes), [in-house workshops](workshops), and [strategic consulting engagements](strategic-consulting), I help your organisation to reduce the hidden effects of jet lag and improve your team’s performance. Drawing on the latest research by academics around the world, I present strategies to mitigate the effects of jet lag that can be tailored to each individual’s own body clock, or chronotype. You’ll walk out of the session equipped to perform at your best wherever you go, no matter how much international travel you do!
 
-Learn how my approach and services can help improve your team's performance...
+Learn how my approach and services can help improve your team's performance.
+
+</br>
 
 ## Contact me
 
