@@ -15,7 +15,8 @@ Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
 
 ## Media Interviews
 
-### [Weekend Sunrise 20 July 2024](https://youtube.com/video/Y-pKo1bR8GA)
+{{< youtube id=Y-pKo1bR8GA title="Weekend Sunrise 20 July 2024" >}}
+
 
 ### [ABC News Breakfast 21 July 2024](https://youtube.com/video/keGF7ullzao)
 
