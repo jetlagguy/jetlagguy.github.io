@@ -7,19 +7,19 @@ title: Dr Steve Jasper
 
 ## Ben Flies to London is now out
 
-`{{< figure src="ben_flies_to_london\250428 Ben front thumbnail.jpg" alt="Ben Flies to London book" link="https://www.amazon.com.au/Ben-flies-London-Stephen-Jasper/dp/B0F48YG12T" height="120">}}`
+`{{< figure src="ben_flies_to_london\250428 Ben front thumbnail.jpg" alt="Ben Flies to London book" link="https://www.amazon.com.au/Ben-flies-London-Stephen-Jasper/dp/B0F48YG12T" height="200">}}`
 
 For children who travel and wonder why they feel topsy-turvy, _Ben Flies to London_ explains jet lag to young children in a way they can understand. Perfect reading for a long-distance flight!
 
 ## Companion colouring-in book for Ben Flies to London
 
-`{{< figure src="ben_flies_to_london\250428 Ben colouring in front thumbnail.jpg" alt="Ben Flies to London colouring-in book" link="https://www.amazon.com.au/Ben-flies-London-colouring-book/dp/B0F4MGZVM4" height="120">}}`
+`{{< figure src="ben_flies_to_london\250428 Ben colouring in front thumbnail.jpg" alt="Ben Flies to London colouring-in book" link="https://www.amazon.com.au/Ben-flies-London-colouring-book/dp/B0F4MGZVM4" height="200">}}`
 
 This can keep them amused for a long-distance flight, and they can learn more about jet lag!
 
 ## End Jet Lag
 
-`{{< figure src="book/241120 End Jet Lag COVER.jpg" alt="END JET LAG book" link="https://www.amazon.com.au/End-Jet-Lag-Practical-frequent-ebook/dp/B0DNSKJVQK" height="120">}}`
+`{{< figure src="book/241120 End Jet Lag COVER.jpg" alt="END JET LAG book" link="https://www.amazon.com.au/End-Jet-Lag-Practical-frequent-ebook/dp/B0DNSKJVQK" height="200">}}`
 
 If you've ever battled with jet lag for travel, this book is a valuable resource. Filled with useful information backed up by the latest science, this is an easy-to-read guide for the layperson who wants to master their jet lag. For more information, click [here](https://jetlagguy.com.au/book/)
 
