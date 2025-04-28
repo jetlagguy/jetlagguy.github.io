@@ -61,8 +61,12 @@ Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
 ### LinkedIn
 https://www.linkedin.com/in/jasperstephen/
 
+</br>
+
 ### YouTube
 https://www.youtube.com/channel/UCyUnLKSPdVW19xU7kBFqTYA
+
+</br>
 
 ### BlueSky
 https://bsky.app/profile/the-jet-lag-guy.bsky.social
@@ -70,6 +74,7 @@ https://bsky.app/profile/the-jet-lag-guy.bsky.social
 
 </br>
 
+</br>
 
 :phone: *[Call Dr Steve now](tel:+61-410-479-974)*
 
