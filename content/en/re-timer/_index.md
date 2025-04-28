@@ -1,7 +1,7 @@
 ---
-title: "Re-Timer Glasses"
-linkTitle: "Re-Timer Glasses"
-description: "Re-Timer Glasses to help adjust your body clock"
+description: Re-Timer Glasses to help adjust your body clock
+linkTitle: Re-Timer Glasses
+title: Re-Timer Glasses
 weight: 30
 ---
 
