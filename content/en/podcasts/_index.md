@@ -1,5 +1,5 @@
 ---
-description: "We have jet lag podcasts!"
+description: We have jet lag podcasts!
 linkTitle: Podcasts
 title: Podcasts
 weight: 85
