@@ -24,7 +24,7 @@ For the **e-book** click [**here**](https://www.amazon.com.au/End-Jet-Lag-Practi
 
 ## Ben Flies to London
 
-`{{< figure src="ben_flies_to_london/250428 Ben front thumbnail.jpg" alt="Ben Flies to London book" link="https://www.amazon.com.au/Ben-flies-London-Stephen-Jasper/dp/B0F48YG12T" height="200">}}`
+`{{< figure src="/ben_flies_to_london/250428 Ben front thumbnail.jpg" alt="Ben Flies to London book" link="https://www.amazon.com.au/Ben-flies-London-Stephen-Jasper/dp/B0F48YG12T" height="200">}}`
 
 Ben is a little boy living in Sydney, and flies to London to visit his grandparents for the first time. He learns all about jet lag and how to manage it. Suitable for young readers, this offers children a simple explanation for jet lag and how to treat it. The perfect children's book for a long distance flight!
 
@@ -36,7 +36,7 @@ For the **e-book** click [**here**](https://www.amazon.com.au/Ben-flies-London-S
 
 ## Ben Flies to London Colouring-in book
 
-`{{< figure src="ben_flies_to_london/250428 Ben colouring in front thumbnail.jpg" alt="Ben Flies to London colouring-in book" link="https://www.amazon.com.au/Ben-flies-London-colouring-book/dp/B0F4MGZVM4" height="200">}}`
+`{{< figure src="/ben_flies_to_london/250428 Ben colouring in front thumbnail.jpg" alt="Ben Flies to London colouring-in book" link="https://www.amazon.com.au/Ben-flies-London-colouring-book/dp/B0F4MGZVM4" height="200">}}`
 
 This is the perfect companion book to *Ben Flies to London*. Children will be occupied for hours as they colour in Ben and his adventures flying to London, and will reinforce the lessons learned about jet lag.
 
