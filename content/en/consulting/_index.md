@@ -49,7 +49,7 @@ Learn how my approach and services can help improve your team's performance.
 
 </br>
 
-## Contact me
+## <span style="color:maroon">Contact me</span>
 
 <aside>Based in Melbourne, Australia. Available to speak and consult globally.</aside>
 
