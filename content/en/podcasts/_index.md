@@ -7,7 +7,7 @@ weight: 85
 
 We have two jet lag podcasts, because one podcast isn't enough!
 
-For my interviews with experts, see [**Ending Jet Lag**](ejl-podcast), where I interview a thought leader in the realm of jet lag, circadian rhythm or sleep each week.
+For my interviews with thought leaders in the field of jet lag and circadian rhythm, see [**Ending Jet Lag**](ejl-podcast), where I interview a thought leader in the realm of jet lag, circadian rhythm or sleep each week.
 
 {{< figure src="ejl.jpg" alt="Ending Jet Lag" link="ejl-podcast" height="300">}}
 
