@@ -7,7 +7,7 @@ weight: 85
 
 The End Jet Lag app is designed to help you avoid jet lag by adjusting your sleep schedule before you travel, and give you individually tailored advice based on your chronotype.
 
-The End Jet Lag app is available for both iPhone and Android.
+The <span style="color:maroon">**End Jet Lag app**</span> is available for both iPhone and Android.
 
 For more information, follow the link to the website
 
