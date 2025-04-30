@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 18 30/04/2025
+
+{{< youtube id=Xf5flykgefI title="Episode 17" >}}
+
+We discuss the current case of Vanda Pharmaceuticals suing the FDA because they cannot supply information around Hetlioz and jet lag, Marie-Pierre St-Onge's new circadian cookbook, and the editing process for these podcasts.
+
+</br>
+
 ## Episode 17 23/04/2025
 
 {{< youtube id=VSmnTokCW80 title="Episode 17" >}}
