@@ -9,9 +9,21 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 20 14/05/2025
+
+{{< youtube id=vc61-F7INGk title="Episode 20" >}}
+
+We discuss the latest developments with Vanda Pharmaceutical's drug Hetlioz for jet lag, my brand new colouring in book and I float the idea of working with Pam Ann on RuPaul's Jet Lag Race.</br>
+
+## Episode 19 07/05/2025
+
+{{< youtube id=Zum2gt-5Kdc title="Episode 19" >}}
+
+WArthur and I chat about the new trend of reading a book outdoors for jet lag, my own new children's books and how it looks when your corporate branding leaks out into your personal life.</br>
+
 ## Episode 18 30/04/2025
 
-{{< youtube id=Xf5flykgefI title="Episode 17" >}}
+{{< youtube id=Xf5flykgefI title="Episode 18" >}}
 
 We discuss the current case of Vanda Pharmaceuticals suing the FDA because they cannot supply information around Hetlioz and jet lag, Marie-Pierre St-Onge's new circadian cookbook, and the editing process for these podcasts.
 
