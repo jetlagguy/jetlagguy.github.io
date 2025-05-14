@@ -8,9 +8,15 @@ This is my series of interviews with thought leaders in the field of jet lag, ci
 
 </br>
 
+## Dr Marie-Pierre St-Onge
+
+{{< youtube id=8YOWmUYxkt8 title="Dr Marie-Pierre St-Onge" >}}
+
+Dr Marie-Pierre St-Onge tells us about her research into the circadian rhythm and food, telling us to be "inefficient" with our dietary intake to lose weight, and her new cookbook that helps us do exactly that.</br>
+
 ## Professor Leon Lack
 
-{{< youtube id=VSmnTokCW80 title="Professor Leon Lack" >}}
+{{< youtube id=Wp_523T5PiA title="Professor Leon Lack" >}}
 
 I talk with Professor Lack about the development of the Re-Timer glasses, the importance of light management in maintaining a healthy circadian rhythm, including his work with the late Dr Michael Mosley and his sleep schedule.
 </br>
