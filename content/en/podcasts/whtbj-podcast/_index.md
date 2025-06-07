@@ -9,6 +9,24 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 23 04/06/2025
+
+{{< youtube id=MyYLTkjeIiY title="Episode 23" >}}
+
+Arthur's last episode! We talk about the Philadelphia Phillies' social jet lag and their subsequent loss against the St Louis Cardinals, the impact of social jet lag on shift workers, chronodiversity and branding.</br>
+
+## Episode 22 28/05/2025
+
+{{< youtube id=2Lf_lmIyOw&t title="Episode 22" >}}
+
+WArthur and I talk about the sad death of an Air India pilot at the age of 36, my app to overcome jet lag tailored to the individual flyer, and having your post liked by an astronaut!</br>
+
+## Episode 21 21/05/2025
+
+{{< youtube id=izixwva784I title="Episode 21" >}}
+
+In this episode Arthur and I talk about Jetlagpalooza, why a private jet is the gift that shows you truly care and how I find news and information about jet lag.</br>
+
 ## Episode 20 14/05/2025
 
 {{< youtube id=vc61-F7INGk title="Episode 20" >}}
