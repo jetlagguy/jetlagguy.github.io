@@ -8,6 +8,12 @@ This is my series of interviews with thought leaders in the field of jet lag, ci
 
 </br>
 
+## Dr Matthew Weaver
+
+{{< youtube id=w7zr_5TAJnw title="Dr Matthew Weaver" >}}
+
+In this interview Dr Matthew Weaver discusses his research in shift work and its effect on the circadian rhythm, the benefit of rotating shifts forward instead of backwards, and some horrifying information about doctor's shifts in the hospital system.</br>
+
 ## Dr Marie-Pierre St-Onge
 
 {{< youtube id=8YOWmUYxkt8 title="Dr Marie-Pierre St-Onge" >}}
