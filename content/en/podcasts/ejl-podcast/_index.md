@@ -8,6 +8,12 @@ This is my series of interviews with thought leaders in the field of jet lag, ci
 
 </br>
 
+## Dr Shelley James
+
+{{< youtube id=5eia9ykdbOI title="Dr Shelley James" >}}
+
+Dr Shelley James and I discuss the importance of lighting in supporting your circadian rhythm, and how selecting the right light is essential. We note that the quality and amount of light in various climates affects the colours that you wear (or don't wear), the effect of light on the brain. We discuss how annoying it is when they make you close the windows on the aeroplane, and the lighting on board the new Qantas Dreamliner to help against jet lag.</br>
+
 ## Dr Matthew Weaver
 
 {{< youtube id=w7zr_5TAJnw title="Dr Matthew Weaver" >}}
