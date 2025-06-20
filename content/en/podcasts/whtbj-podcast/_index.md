@@ -9,6 +9,18 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 25 18/06/2025
+
+{{< youtube id=Hb9Bzk3scE4 title="Episode 25" >}}
+
+This week I'll be discussing the Air India flight 171 crash and how there may have been issues with the airline that I discussed on the 28th May, the effect of daylight savings time on the economy as measured in New South Wales, and what methylene blue is used for (hint: not jet lag).</br>
+
+## Episode 24 11/06/2025
+
+{{< youtube id=nYK3M_t9rNw title="Episode 24" >}}
+
+I talk about the association between dementia and social jet lag in a study of almost 24,000 people over a decade that's come out of the University of Groningen, an art exhibition inspired by jet lag in Los Angeles by Austin Irving, and Katy Perry having a tiger lick her hand to overcome jet lag.</br>
+
 ## Episode 23 04/06/2025
 
 {{< youtube id=MyYLTkjeIiY title="Episode 23" >}}
