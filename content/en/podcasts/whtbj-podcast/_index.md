@@ -1,11 +1,11 @@
 ---
-description: "Whatever Happened to Baby Jet Lag?"
-linkTitle: Whatever Happened to Baby Jet Lag?
-title: Whatever Happened to Baby Jet Lag?
+description: "Jet Lag in the News"
+linkTitle: Jet Lag in the News
+title: Jet Lag in the News
 weight: 85
 ---
 
-The podcast has been running since the beginning of 2025! Follow the links below to find out [__Whatever Happened to Baby Jet Lag?__](https://www.youtube.com/playlist?list=PL5qLroVCqm8iM8A0YjjyMmS6r_5Gmb67J)
+The podcast has been running since the beginning of 2025! Follow the links below to find out about [__Jet Lag in the News__](https://www.youtube.com/playlist?list=PL5qLroVCqm8iM8A0YjjyMmS6r_5Gmb67J)
 
 </br>
 
