@@ -11,7 +11,7 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 ## Episode 26 25/06/2025
 
-{{< youtube id=Hb9Bzk3scE4 title="Episode 26" >}}
+{{< youtube id=RfnBrZ8NClU title="Episode 26" >}}
 
 I talk about Air India's problems (and some of the racist commentary that has come from that), Khalil Rountree Jr's experience of jet lag when competing in Azerbaijan, melatonin being available over the counter in New Zealand, and an interesting perspective on jet lag from Hugo Macdonald at Wallpaper* magazine.</br>
 
