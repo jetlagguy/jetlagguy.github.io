@@ -5,9 +5,15 @@ title: Jet Lag in the News
 weight: 85
 ---
 
-The podcast has been running since the beginning of 2025! Follow the links below to find out about [__Jet Lag in the News__](https://www.youtube.com/playlist?list=PL5qLroVCqm8iM8A0YjjyMmS6r_5Gmb67J)
+The podcast has been running since the beginning of 2025! Follow the links below to find out about [__Jet Lag in the News__](https://www.youtube.com/playlist?list=PL5qLroVCqm8j2NgOQKYOQX7gOBbjtAWUS)
 
 </br>
+
+## Episode 26 25/06/2025
+
+{{< youtube id=Hb9Bzk3scE4 title="Episode 26" >}}
+
+I talk about Air India's problems (and some of the racist commentary that has come from that), Khalil Rountree Jr's experience of jet lag when competing in Azerbaijan, melatonin being available over the counter in New Zealand, and an interesting perspective on jet lag from Hugo Macdonald at Wallpaper* magazine.</br>
 
 ## Episode 25 18/06/2025
 
