@@ -13,6 +13,6 @@ For my interviews with thought leaders in the field of jet lag and circadian rhy
 
 </br>
 
-For my weekly round up what's happening in the world of jet lag, check out [**Whatever Happened to Baby Jet Lag?**](whtbj-podcast), which comes out each Wednesday (Australian Eastern Time).
+For my weekly round up what's happening in the world of jet lag, check out [**Jet Lag in the News**](whtbj-podcast), which comes out each Wednesday (Australian Eastern Time).
 
-{{< figure src="whtbj.png" alt="Whatever Happened to Baby Jet Lag?" link="whtbj-podcast" height="300">}}
+{{< figure src="250620 Jet Lag in the News.jpg" alt="Jet Lag in the News" link="whtbj-podcast" height="300">}}
