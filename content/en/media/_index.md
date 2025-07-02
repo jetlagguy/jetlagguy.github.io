@@ -21,7 +21,7 @@ Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
 
 ### Nine Travel 01 July 2025
 
-{{< figure src=https://travel.nine.com.au/latest/jet-lag-tips-mistake-when-landing-expert-jet-lag-guy-dr-steve-jasper/6bb6266f-d897-481f-bb88-ea62bcc58ad0}}
+{{< figure src=https://travel.nine.com.au/latest/jet-lag-tips-mistake-when-landing-expert-jet-lag-guy-dr-steve-jasper/6bb6266f-d897-481f-bb88-ea62bcc58ad0 >}}
 
 </br>
 </br>
