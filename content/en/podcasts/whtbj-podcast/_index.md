@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 27 02/07/2025
+
+{{< youtube id=PASmfTKeJSY title="Episode 27" >}}
+
+This week I talk about the effects of blue-depleted light on gambling, and why that golden glow in casinos is actually something sinister, Qatar Airlines' new menu by Ross Lusted and some of the science that goes into preparing meals for flights, and the British Airways steward who was found naked, dancing in the business class toilet who was arrested "on suspicion of being unfit for duty".</br>
+
+</br>
+
 ## Episode 26 25/06/2025
 
 {{< youtube id=RfnBrZ8NClU title="Episode 26" >}}
