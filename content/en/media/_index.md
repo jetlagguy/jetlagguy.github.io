@@ -19,7 +19,14 @@ Email: [bookings@jetlagguy.com.au](mailto:bookings@jetlagguy.com.au)
 
 ## Media Interviews
 
-### Weekend Sunrise
+### Nine Travel 01 July 2025
+
+{{< figure src=https://travel.nine.com.au/latest/jet-lag-tips-mistake-when-landing-expert-jet-lag-guy-dr-steve-jasper/6bb6266f-d897-481f-bb88-ea62bcc58ad0}}
+
+</br>
+</br>
+
+### Weekend Sunrise 20 July 2024
 
 {{< youtube id=Y-pKo1bR8GA title="Weekend Sunrise 20 July 2024" >}}
 
