@@ -1,10 +1,10 @@
 ---
-description: "Ending Jet Lag"
-linkTitle: Ending Jet Lag
-title: Ending Jet Lag
+description: "Jet Lag Interviews"
+linkTitle: Jet Lag Interviews
+title: Jet Lag Interviews
 weight: 85
 ---
-This is my series of interviews with thought leaders in the field of jet lag, circadian rhythm and sleep. Follow the links below to find more about [__Ending Jet Lag?__](https://www.youtube.com/playlist?list=PL5qLroVCqm8iM8A0YjjyMmS6r_5Gmb67J)
+This is my series of interviews with thought leaders in the field of jet lag, circadian rhythm and sleep. Follow the links below to find more about [__Jet Lag Interviews__](https://www.youtube.com/playlist?list=PL5qLroVCqm8iM8A0YjjyMmS6r_5Gmb67J)
 
 </br>
 
