@@ -13,7 +13,7 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 {{< youtube id=62U_YBSEDHc title="Episode 28" >}}
 
-This week I talk about disturbing data regarding light at night, a disrupted circadian rhythm and type 2 diabetes, the fallout from Qantas' data breach and some advice on what to do if you're a Qantas customer, the disturbing case of melatonin-laced gummies being sold for use in children in the UK without labelling, and the amusing case of "jet lag" with a British fighter jet being stranded in the Indian state of Kerala — and the tourism agency's cheeky response!.</br>
+This week I talk about disturbing data regarding light at night, a disrupted circadian rhythm and type 2 diabetes, the fallout from Qantas' data breach and some advice on what to do if you're a Qantas customer, the disturbing case of melatonin-laced gummies being sold for use in children in the UK without labelling, and the amusing case of "jet lag" with a British fighter jet being stranded in the Indian state of Kerala — and the tourism agency's cheeky response!</br>
 
 </br>
 
