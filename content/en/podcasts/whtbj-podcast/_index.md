@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 29 16/07/2025
+
+{{< youtube id=byfOGvNHSmc title="Episode 29" >}}
+
+It's good news week! Some great news about post-pandemic sleep in Brazilian adolescents, no longer having to take your shoes off at American airports, the latest update on the Qantas data breach, why airlines should serve pistachios on the plane, and Olivia Rodrigo's very generous support of her crew.</br>
+
+</br>
+
 ## Episode 28 09/07/2025
 
 {{< youtube id=62U_YBSEDHc title="Episode 28" >}}
