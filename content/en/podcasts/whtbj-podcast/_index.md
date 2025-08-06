@@ -9,6 +9,30 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 32 06/08/2025
+
+{{< youtube id=FmkFF2exQd8 title="Episode 32" >}}
+
+This week there's a big study out of China with a study in 147 college student participants looking at the effects of lighting, a review of the effect of sleep deprivation on weight loss and weight loss maintenance out of Greece, the new Swiss Airlines long-haul cabins with jet-lag friendly lighting, the invention of jet lag noodles, the best and worst airlines for sleeping on the plane, and I even manage to shoehorn ABBA into a story out of London!
+
+</br>
+
+## Episode 31 30/07/2025
+
+{{< youtube id=YLrvRzf-BZo title="Episode 31" >}}
+
+This week I talk about exciting new research from Oxford University about mitochondria and sleep, more research from the RIKEN Institute in Tokyo in how extreme heat affects the circadian rhythm,  Senator Ron Johnson wanting to see former president Joe Biden's medical records because he doesn't believe former President Biden's poor performance at the presidential debate was due to jet lag, plans for a hypersonic jet to fly from New York to London in AN HOUR, the British and Irish Lions rugby team tour of Australia, a nasty surprise for passengers of a Virgin Atlantic flight from London to New York, a film called “Jet Lag” which is an animation made in the style of an airline safety brochure currently being screened at Portland International Airport, and my promotion last week for 24/7.
+
+</br>
+
+## Episode 30 23/07/2025
+
+{{< youtube id=tfozihvUC1s title="Episode 30" >}}
+
+A study of mental health and circadian disruption in young people, a very large study linking sleep and the prevention of chronic disease, another study in mice examining circadian rhythm disruption and cognitive performance, travellers being stranded in the outback, the likely benefit of chocolate and chili for travellers, the promo for tomorrow's 24/7, and having a whale of a time in Sydney Harbour!
+
+</br>
+
 ## Episode 29 16/07/2025
 
 {{< youtube id=byfOGvNHSmc title="Episode 29" >}}
