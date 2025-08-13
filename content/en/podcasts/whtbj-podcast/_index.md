@@ -9,6 +9,18 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 33 13/08/2025
+
+{{< youtube id=DhF6hnqkZnU title="Episode 33" >}}
+
+This week I discuss animal research in the Czech Republic examining the effects of food and light on the circadian rhythm (and what that could mean for business travellers), an interview with neuroscientist Dr. Randy J. Nelson and the adverse effects of circadian disruptions on health and the implications for frequent business travellers.
+
+I also discuss the devaluation of Qantas' frequent flyer points by 20%, unhappiness at Barcelona Football Club after a long and arduous trip back from South Korea, the 29-hour-long flight from hell across the Pacific from Los Angeles to Hong Kong via a very long layover in Taiwan because of a thunderstorm, United Airlines flights being grounded last Wednesday and the backlash from that, and a slew of new European (and one South American!) destinations for US travellers on American Airlines.
+
+There's also the current fashion of going to bed at 9 PM (no, it's not a great idea for most people), and the genre of movie you should NEVER watch on a flight!
+
+</br>
+
 ## Episode 32 06/08/2025
 
 {{< youtube id=FmkFF2exQd8 title="Episode 32" >}}
