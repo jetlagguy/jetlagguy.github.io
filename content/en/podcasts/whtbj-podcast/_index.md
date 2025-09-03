@@ -9,6 +9,30 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 36 03/09/2025
+
+{{< youtube id=dPXJ3IqVDGc title="Episode 36" >}}
+
+This week: chronobiology research in wildland firefighters and social jet lag looking at biological markers found it was worse with more social jetlag; a study in mice looking at how females adjust to eastbound jet lag better than males; melatonin in children's gummies in Western Australia; a woman's life saved by her Apple smart watch; mid-air-robics on an easyJet flight; chaos at Newark Airport on one of the busiest weekends of the year; Farmageddon and how Iowa State powered on in the match afterward; and German TV star Verona Pooth moved to Dubai instead of Los Angeles to avoid jet lag.
+
+</br>
+
+## Episode 35 27/08/2025
+
+{{< youtube id=i-dyWx0Civ8 title="Episode 35" >}}
+
+Vanda Pharmaceuticals is now targeting generic versions of their jet lag drug tasimelteon, marketed as Hetlioz; a retrospective study from China linking circadian disruption with melanoma; Taiwan researchers have found a link between social jet lag and anxiety; the plausible link between sleep deprivation has been linked to the exacerbation of colitis; a link between excessive sleepiness or hypersomnia and foods such as cheese, gherkins and smoked meat; private jets increasing their range dramatically; and a jet lag zombie calculator that tells you how many days you will be a zombie for after international travel.
+
+</br>
+
+## Episode 34 20/08/2025
+
+{{< youtube id=bQyoQioiuFE title="Episode 34" >}}
+
+This week results of a study of about 3,000 US medical interns wearing health trackers on their wrists for a year and the effect of seasons and shift work on their circadian rhythms; research from Sweden finding that after only three nights of poor sleep there was an increase in inflammatory proteins in the blood, increasing the risk of heart failure, coronary heart disease and atrial fibrillation; a review out of China analysing social jet lag finding a link between social jet lag and depressive symptoms and general mental health; the lack of a link between estrogen, a female sex hormone, and chronotype; the latest update with Vanda Pharmaceuticals’ drug tasimelteon, marketed as Hetlioz, and their dispute with the American Food and Drug Administration (FDA); Melbourne Airport's dismal ranking in terms of convenience; why Taylor Swift is an athlete; and Emma Stone feeling truly psychotic and half-dead due to jet lag.
+
+</br>
+
 ## Episode 33 13/08/2025
 
 {{< youtube id=DhF6hnqkZnU title="Episode 33" >}}
