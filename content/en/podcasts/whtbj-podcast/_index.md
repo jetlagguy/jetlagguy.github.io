@@ -9,6 +9,13 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 37 10/09/2025
+
+{{< youtube id=11Gwjlmi51A title="Episode 37" >}}
+
+This week the big story is coming out of Japan, with former CEO of whisky maker Suntory Holdings limited, Takeshi Niinami, has resigned in disgrace due to jet lag supplements that contained the devil's bok choy, violating Japan's strict drug laws; Team Korea had higher incidences of injury and illness at the Paris Olympics; the gender gap in jet lag, with women affected more strongly; more research into social jet lag and type 2 diabetes; sleep duration affected by daylight savings time; a mechanism for the effect of the circadian rhythm on the immune system; an allegedly intoxicated woman dancing in the aisle of a plane before take-off; and Qantas uniforms are getting an upgrade!
+</br>
+
 ## Episode 36 03/09/2025
 
 {{< youtube id=dPXJ3IqVDGc title="Episode 36" >}}
