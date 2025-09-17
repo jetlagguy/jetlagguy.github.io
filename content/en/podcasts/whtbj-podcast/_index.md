@@ -9,6 +9,13 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 38 10/09/2025
+
+{{< youtube id=6yVp2iMZlm0 title="Episode 38" >}}
+
+This week I discuss the General Court of the European Union ruling that you cannot call cosmetics "Jet Lag"; Max Richter performing an eight-and-half hour live music show running through the night, where audience members get a bed instead of a seat; the discovery of a protein that binds to adrenaline that links the circadian rhythm to the immune system; the effect of chronotype in patients with pulmonary hypertension; the chemotherapy drug paclitaxel disrupting the circadian rhythm; cognitive benefits derived from walking in nature; avoiding sleeping tablets at 30,000 feet; and festival jet lag, where people go to music festivals, stay up all night, and get social jet lag, or "sleep drunk".
+</br>
+
 ## Episode 37 10/09/2025
 
 {{< youtube id=11Gwjlmi51A title="Episode 37" >}}
