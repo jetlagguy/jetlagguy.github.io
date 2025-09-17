@@ -9,7 +9,7 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
-## Episode 38 10/09/2025
+## Episode 38 17/09/2025
 
 {{< youtube id=6yVp2iMZlm0 title="Episode 38" >}}
 
