@@ -143,9 +143,9 @@ Arthur's last episode! We talk about the Philadelphia Phillies' social jet lag a
 
 ## Episode 22 28/05/2025
 
-{{< youtube id=2Lf_lmIyOw&t title="Episode 22" >}}
+{{< youtube id=-2Lf_lmIyOw title="Episode 22" >}}
 
-WArthur and I talk about the sad death of an Air India pilot at the age of 36, my app to overcome jet lag tailored to the individual flyer, and having your post liked by an astronaut!</br>
+Arthur and I talk about the sad death of an Air India pilot at the age of 36, my app to overcome jet lag tailored to the individual flyer, and having your post liked by an astronaut!</br>
 
 ## Episode 21 21/05/2025
 
