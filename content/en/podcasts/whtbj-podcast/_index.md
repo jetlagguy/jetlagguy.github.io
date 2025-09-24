@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 39 24/09/2025
+
+{{< youtube id=mRYP5eUzABY title="Episode 39" >}}
+
+This week I talk about research from South Korea linking sleep deprivation and depression and obesity; research from China examining the mental health of 11,312 college students and associated sleep patterns; the link between circadian disruption and prostate cancer; a database of fruit fly genes called FlyBase which is likely to receive funding cuts from the US government; the Laver Cup in San Francisco where jet lag may have been a factor in Team Europe's defeat; Kazakh soccer team Kairat Almaty defeated by Sporting CP in Lisbon, and jet lag may have been a factor here also; the Pavlos Giannakopoulos Tournament being held for the first time outside Greece in Melbourne, Australia; Irish budget airline Ryanair is looking at standing-only seats on their planes; the longest flight in the world from Shanghai to Buenos Aires with a refuelling stop in Auckland; Swiss Airlines' upgrade to new Aerobus A350-900s on their Zurich - Boston run; Virgin Australia allowing flights with pets on flights between Melbourne and Queensland as of October; the Airbus A220 is carrying more seats and increasing the capacity of its overhead bins; the Gulfstream G800 has a range that can fly you from New York City to Sydney, Australia in one trip, along with circadian rhythm-friendly lighting; and St Vincent took some pills to manage jet lag and turned the experience into a hit song.
+
+</br>
+
 ## Episode 38 17/09/2025
 
 {{< youtube id=6yVp2iMZlm0 title="Episode 38" >}}
