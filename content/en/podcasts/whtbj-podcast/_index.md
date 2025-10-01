@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 40 01/10/2025
+
+{{< youtube id=dnxAu4CCktg title="Episode 40" >}}
+
+This week I discuss a study from Stanford University that found that keeping our clocks on standard time year round would reduce the prevalence of obesity and strokes; important research out of the Netherlands assessing the cumulative effects of social jet lag due to shift work in 42,119 nurses; the new Qantas Airbus 321XLR aircraft with a passenger-to-toilet ratio in economy of just one toilet for every 90 passengers; Vanda Pharmaceuticals’ drug Hetlioz being successful in a study for primary insomnia; the discovery of non-compliant melatonin in Australia, where some had no melatonin whatsoever, while one had more than four times the labelled dose; a review into the effects of shift work, night shift and alcohol consumption out of Tunisia that found “Consistent association between shift work and alcohol consumption", with particular risks for women over 50; the USC Trojans travelling a lot, including their "Big 9am Kickoff"; getting a prescription to travel to Sweden; and a dog sitting on the runway in Antigua delaying the landing of a British Airways flight from London.
+
+</br>
+
 ## Episode 39 24/09/2025
 
 {{< youtube id=mRYP5eUzABY title="Episode 39" >}}
