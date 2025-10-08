@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 41 08/10/2025
+
+{{< youtube id=OSFxKD5cQUU title="Episode 41" >}}
+
+This week I talk about the US federal shutdown and TSA workers at airport security not currently being paid; drones at Munich Airport just before a major public holiday in Germany; a proven link between sleep deprivation and susceptibility to the common cold; the prevalence of shift work sleep disorders in health professionals; research that shows you're not happier coming back from a holiday unless it's very relaxed; and the results of the match between the Cleveland Browns in London and the Minnesota Vikings and why jet lag was a key factor.
+
+</br>
+
 ## Episode 40 01/10/2025
 
 {{< youtube id=dnxAu4CCktg title="Episode 40" >}}
