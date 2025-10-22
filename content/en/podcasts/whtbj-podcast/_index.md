@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 42 22/10/2025
+
+{{< youtube id=RDn1njT3_RA title="Episode 42" >}}
+
+This is a fortnight's worth of jet lag news: some research into blue light and orange sunglasses, catch-up sleep, and sunlight exposure and sleep; new rules for entering most European countries, and the best seats on the plane if you're a nervous flyer; American football results being potentially affected by jet lag (especially the Maryland Terrapins); the complete misuse of the term "jet lag" in 3D printing, and why I won't be replaced by AI anytime soon.
+
+</br>
+
 ## Episode 41 08/10/2025
 
 {{< youtube id=OSFxKD5cQUU title="Episode 41" >}}
