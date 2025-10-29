@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 43 29/10/2025
+
+{{< youtube id=4FCJUnHiA5Y title="Episode 43" >}}
+
+This week I talk about a Polish neurobiologist's plea to abolish daylight savings time, saying it's like a mini jet lag; the effect of staying up late on gut health and the food that can prevent harm; constipation as a travel hazard; the best airports and airlines in the world according to Forbes Travel; delays at US airports because of the federal government shutdown; the cessation of trading on the ASX for Corporate Travel Management; a lithium battery bursting into flames on an Air China flight; Virgin Australia reviewing power banks on board; an emergency landing by an Air New Zealand plane in Sydney; a football (soccer) player who flew for 15 hours from Cyprus to Kazakhstan, only to get a red card after four minutes on the pitch; Piers Morgan hating being on the morning TV show Good Morning Britain because it was "like having permanent jet-lag"; and a stunning view of the Aurora Borealis.
+
+</br>
+
 ## Episode 42 22/10/2025
 
 {{< youtube id=RDn1njT3_RA title="Episode 42" >}}
