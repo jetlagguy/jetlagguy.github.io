@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 44 12/11/2025
+
+{{< youtube id=VkyHtc0T4Vk title="Episode 44" >}}
+
+Big news! The American Heart Association has made a safety statement about melatonin; research where being a night owl was associated with obesity; a link between circadian rhythm disturbances and neurodegenerative markers; a study in mice with circadian disruption leading to increased markers for cancer; research into traffic noise and sleep; being cited in the Academy of Management Journal; the probable end of the US federal government shutdown and business travel; Qantas' Project Sunrise wellbeing zones; an exploding power bank at Melbourne Airport; an upgrade of Qantas' business lounge at Sydney Airport; the first passenger jet landing at the new Western Sydney International Airport; the campaign to have nearby St Marys station connect with the Blue Mountains; the local horse that won the Melbourne Cup; Chelsea playing in Azerbaijan; the monument in Melbourne with jet lag; The Jet Lag Guy's contribution to Australian Music Month; and my article in RBV on chronodiversity. Yes, it's a lot!
+
+</br>
+
 ## Episode 43 29/10/2025
 
 {{< youtube id=4FCJUnHiA5Y title="Episode 43" >}}
