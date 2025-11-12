@@ -163,11 +163,15 @@ This week I talk about the effects of blue-depleted light on gambling, and why t
 
 I talk about Air India's problems (and some of the racist commentary that has come from that), Khalil Rountree Jr's experience of jet lag when competing in Azerbaijan, melatonin being available over the counter in New Zealand, and an interesting perspective on jet lag from Hugo Macdonald at Wallpaper* magazine.</br>
 
+</br>
+
 ## Episode 25 18/06/2025
 
 {{< youtube id=Hb9Bzk3scE4 title="Episode 25" >}}
 
 This week I'll be discussing the Air India flight 171 crash and how there may have been issues with the airline that I discussed on the 28th May, the effect of daylight savings time on the economy as measured in New South Wales, and what methylene blue is used for (hint: not jet lag).</br>
+
+</br>
 
 ## Episode 24 11/06/2025
 
@@ -175,11 +179,15 @@ This week I'll be discussing the Air India flight 171 crash and how there may ha
 
 I talk about the association between dementia and social jet lag in a study of almost 24,000 people over a decade that's come out of the University of Groningen, an art exhibition inspired by jet lag in Los Angeles by Austin Irving, and Katy Perry having a tiger lick her hand to overcome jet lag.</br>
 
+</br>
+
 ## Episode 23 04/06/2025
 
 {{< youtube id=MyYLTkjeIiY title="Episode 23" >}}
 
 Arthur's last episode! We talk about the Philadelphia Phillies' social jet lag and their subsequent loss against the St Louis Cardinals, the impact of social jet lag on shift workers, chronodiversity and branding.</br>
+
+</br>
 
 ## Episode 22 28/05/2025
 
@@ -187,11 +195,17 @@ Arthur's last episode! We talk about the Philadelphia Phillies' social jet lag a
 
 Arthur and I talk about the sad death of an Air India pilot at the age of 36, my app to overcome jet lag tailored to the individual flyer, and having your post liked by an astronaut!</br>
 
+</br>
+
 ## Episode 21 21/05/2025
+
+</br>
 
 {{< youtube id=izixwva784I title="Episode 21" >}}
 
 In this episode Arthur and I talk about Jetlagpalooza, why a private jet is the gift that shows you truly care and how I find news and information about jet lag.</br>
+
+</br>
 
 ## Episode 20 14/05/2025
 
@@ -199,11 +213,15 @@ In this episode Arthur and I talk about Jetlagpalooza, why a private jet is the 
 
 We discuss the latest developments with Vanda Pharmaceutical's drug Hetlioz for jet lag, my brand new colouring in book and I float the idea of working with Pam Ann on RuPaul's Jet Lag Race.</br>
 
+</br>
+
 ## Episode 19 07/05/2025
 
 {{< youtube id=Zum2gt-5Kdc title="Episode 19" >}}
 
-WArthur and I chat about the new trend of reading a book outdoors for jet lag, my own new children's books and how it looks when your corporate branding leaks out into your personal life.</br>
+Arthur and I chat about the new trend of reading a book outdoors for jet lag, my own new children's books and how it looks when your corporate branding leaks out into your personal life.</br>
+
+</br>
 
 ## Episode 18 30/04/2025
 
