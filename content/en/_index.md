@@ -1,11 +1,22 @@
 ---
 cascade:
   featured_image: /images/steve-jasper-jetlagguy.jpg
-description: The Jet Lag Guy
-title: Dr Steve Jasper
+description: Dr Steve Jasper, the Jet Lag Guy
+title: Your one-stop shop for ending jet lag!
 ---
+## End Jet Lag app(/app)
+The End Jet Lag app is designed to help you avoid jet lag by adjusting your sleep schedule before you travel, and give you **individually tailored** advice based on your particular body clock.
 
-## Ben Flies to London is now out
+The End Jet Lag app is available for both **iPhone** and **Android**.
+
+
+## End Jet Lag
+
+`{{< figure src="book/241120 End Jet Lag COVER.jpg" alt="END JET LAG book" link="https://www.amazon.com.au/End-Jet-Lag-Practical-frequent-ebook/dp/B0DNSKJVQK" height="200">}}`
+
+If you've ever battled with jet lag for travel, this book is a valuable resource. Filled with useful information backed up by the latest science, this is an easy-to-read guide for the layperson who wants to master their jet lag. For more information, click [here](https://jetlagguy.com.au/book/)
+
+## Children's book "Ben Flies to London'
 
 `{{< figure src="ben_flies_to_london/250428 Ben front thumbnail.jpg" alt="Ben Flies to London book" link="https://www.amazon.com.au/Ben-flies-London-Stephen-Jasper/dp/B0F48YG12T" height="200">}}`
 
@@ -17,11 +28,7 @@ For children who travel and wonder why they feel topsy-turvy, _Ben Flies to Lond
 
 This can keep them amused for a long-distance flight, and they can learn more about jet lag!
 
-## End Jet Lag
 
-`{{< figure src="book/241120 End Jet Lag COVER.jpg" alt="END JET LAG book" link="https://www.amazon.com.au/End-Jet-Lag-Practical-frequent-ebook/dp/B0DNSKJVQK" height="200">}}`
-
-If you've ever battled with jet lag for travel, this book is a valuable resource. Filled with useful information backed up by the latest science, this is an easy-to-read guide for the layperson who wants to master their jet lag. For more information, click [here](https://jetlagguy.com.au/book/)
 
 
 ### Looking after your high flyers
