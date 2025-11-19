@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 45 19/11/2025
+
+{{< youtube id=M57niqFhMsQ title="Episode 45" >}}
+
+This week I talk about the end of the US shutdown and what it means for business travellers; Vistajet partnering with Dr Peter Attia and making these jets jet lag-friendly; the best airports in the world; a lack of progress on sustainability in the airline industry according to Delphine Millot from the Global Business Travel Association; airfares remaining stable through 2026; Japanese PM Sanae Takaichi's lack of sleep; research linking being a night owl to obesity; how flying puts a strain on your heart according to cardiologist Dr. Dmitry Yaranov; Manchester United being booed off the field in Malaysia due to jet lag; the Miami Dolphins and the Washington Commanders competing in Madrid; and the Fiji rugby 7s competing in Dubai.
+
+</br>
+
 ## Episode 44 12/11/2025
 
 {{< youtube id=VkyHtc0T4Vk title="Episode 44" >}}
