@@ -2,7 +2,7 @@
 cascade:
   featured_image: /images/steve-jasper-jetlagguy.jpg
 description: Dr Steve Jasper, the Jet Lag Guy
-title: Your one-stop shop for **ending jet lag!**
+title: Your one-stop shop to END JET LAG!
 ---
 ## [End Jet Lag app](/app)
 
