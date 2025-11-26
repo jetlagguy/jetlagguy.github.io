@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 46 26/11/2025
+
+{{< youtube id=2Z2XFStA6cg title="Episode 46" >}}
+
+Could jet lag potentially have caused an international incident between Italy and Taiwan? This week I also talk about how business travel is booming in Australia; research linking social jet lag and metabolic syndrome; the best routine for waking up in the morning (hint: it's not at 5 AM); a referee that might have been jetlagged; soccer star Mary Fowler's struggles with racism, mental health and jet lag; and a GENIUS hack for carrying on extra luggage!
+
+</br>
+
 ## Episode 45 19/11/2025
 
 {{< youtube id=M57niqFhMsQ title="Episode 45" >}}
