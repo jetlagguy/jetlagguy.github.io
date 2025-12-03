@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 47 03/12/2025
+
+{{< youtube id=3bZ3jPpbxnc title="Episode 47" >}}
+
+This week I discuss the Airbus A320 is being recalled for a software correction and its effects on Jetstar in Australia; the massive size of the  global jet lag market in 2025; Emirates flying direct between Adelaide and Dubai; developments at Amsterdam’s Schiphol Airport; Corporate Travel Management in the UK under pressure after the company admitted it owes £80 million to customers in the United Kingdom who were overcharged; AI-generated very realistic-looking receipts and documents, resulting in fraudulent business travel claims; Saudi Arabia launching three new airlines, on top of the ones they already have; US Transportation Secretary Sean Duffy's opinions about flying; a private jet if you have a spare 80 million dollars US sitting in your coin jar; research in rats that found that high intensity interval training and low dose caffeine helped with social jet lag; research that showed night owls were particularly susceptible to social jet lag; female tennis players who wore a sleep tracker to measure their jet lag; the man running 7 marathons in 7 days on 7 continents for children's charity; and the big burning question this time of year: does Santa Claus get jet lag? And how should we decorate our Christmas trees to support his circadian rhythm?
+
+</br>
+
 ## Episode 46 26/11/2025
 
 {{< youtube id=2Z2XFStA6cg title="Episode 46" >}}
