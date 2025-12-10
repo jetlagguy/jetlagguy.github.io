@@ -9,6 +9,24 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 48 10/12/2025
+
+{{< youtube id=L2esWM15m9E title="Episode 48" >}}
+
+This week I talk about:
+• the increase in demand for global travel;
+• the biggest risk factors for business travel;
+• hush trips;
+• an AI-powered travel assistant called Otto;
+• chaos in Indian airports and Detroit;
+• controversy around Australian communications minister Anika Wells;
+• new routes opening up, including one that lasts 29 HOURS;
+• the best and worst US airports;
+• research linking social jet lag and obesity in children;
+• and, Qantas planes getting a Christmas makeover!
+
+</br>
+
 ## Episode 47 03/12/2025
 
 {{< youtube id=3bZ3jPpbxnc title="Episode 47" >}}
