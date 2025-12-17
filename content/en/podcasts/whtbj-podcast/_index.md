@@ -18,7 +18,6 @@ This week I talk about:
 • Americans pulling back from international travel;
 
 </br>
-
 • The most hated airline in the world;
 • Southwest Airlines introducing a new policy for people of size;
 • The prevalence of ultrafine particles when you fly;
