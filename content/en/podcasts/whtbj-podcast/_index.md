@@ -9,6 +9,22 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 49 17/12/2025
+
+{{< youtube id=qnJ6kNpuDRU title="Episode 49" >}}
+
+This week I talk about:
+• The new conditions from the US requiring passengers from 42 countries to provide their social media history for the last five years;
+• Americans pulling back from international travel;
+• The most hated airline in the world;
+• Southwest Airlines introducing a new policy for people of size;
+• The prevalence of ultrafine particles when you fly;
+• Research regarding social jet lag in teenagers;
+• What happens after 26 hours of no sleep;
+• My humorous campaign against blue and white lights on Christmas trees.
+
+</br>
+
 ## Episode 48 10/12/2025
 
 {{< youtube id=L2esWM15m9E title="Episode 48" >}}
