@@ -16,7 +16,9 @@ The podcast has been running since the beginning of 2025! Follow the links below
 This week I talk about:
 • The new conditions from the US requiring passengers from 42 countries to provide their social media history for the last five years;
 • Americans pulling back from international travel;
+
 </br>
+
 • The most hated airline in the world;
 • Southwest Airlines introducing a new policy for people of size;
 • The prevalence of ultrafine particles when you fly;
