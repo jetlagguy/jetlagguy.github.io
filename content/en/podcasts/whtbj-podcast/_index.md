@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 50 29/01/2026
+
+{{< youtube id=fjYNlrt7AGo title="Episode 50"}
+
+It's our 50th episode, and the first one for 2026! We have a special bumper edition, featuring Arthur Chan as the cohost. This week we talk about why you should NEVER put your coat in the overhead locker, the best and worst long-haul airlines, the FDA rejecting Vanda Pharmaceuticals' jet lag drug again, how flying affects the brain, negative impacts of shift work, the Australian Open, and my story meeting Florida Man at Newark International Airport.
+
+</br>
+
 ## Episode 49 17/12/2025
 
 {{< youtube id=qnJ6kNpuDRU title="Episode 49" >}}
