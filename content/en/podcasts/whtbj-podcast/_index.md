@@ -9,9 +9,17 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 51 04/02/2026
+
+{{< youtube id=hcriAPdVypk title="Episode 51"}}
+
+This week I talk about the nightmare scenario of social jet lag in air traffic controllers; US airline Southwest Airlines abandoning open seating; night owls having a 16 percent higher risk of heart attack or stroke compared with early risers; lack of sleep in medical undergraduates; the timing of the Australian Open men's finals; and why international flying is "a device of Satan to lead immortal souls to hell".
+
+</br>
+
 ## Episode 50 29/01/2026
 
-{{< youtube id=fjYNlrt7AGo title="Episode 50"}
+{{< youtube id=fjYNlrt7AGo title="Episode 50"}}
 
 It's our 50th episode, and the first one for 2026! We have a special bumper edition, featuring Arthur Chan as the cohost. This week we talk about why you should NEVER put your coat in the overhead locker, the best and worst long-haul airlines, the FDA rejecting Vanda Pharmaceuticals' jet lag drug again, how flying affects the brain, negative impacts of shift work, the Australian Open, and my story meeting Florida Man at Newark International Airport.
 
