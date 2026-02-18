@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 53 18/02/2026
+
+{{< youtube id=i-_XWRvuOG4 title="Episode 53">}}
+
+This week I talk about Air Canada's use of the Airbus A350-1000 as its new flagship jet; the massive surge in international travel from Canada due to the current political situation with the United States; the Web Travel Group's share price collapse after a fairly ordinary tax announcement in Spain; research linking sleep quality to the gut microbiome; how teenagers sleeping in on the weekend is a good thing; there being such a thing as too much sleep; biohackers using nicotine for longevity; the dangers of hyperbaric oxygen chambers for jet lag; Australia's stellar performance at the Winter Olympics, overcoming jet lag; and finally, renowned artist Tracey Emin is an out and proud night owl.
+
+</br>
+
 ## Episode 52 11/02/2026
 
 {{< youtube id=OJVPHflLDmc title="Episode 52">}}
