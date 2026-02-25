@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 54 25/02/2026
+
+{{< youtube id=i-VSwpAyW4Nvk title="Episode 54">}}
+
+This week I talk about the new European Union border control rules impact on Australian travellers; Sri Lanka’s Electronic Travel Authorisation facing technical disruptions; the new rules for Australians with British or Irish dual citizenship travelling to the United Kingdom; a national strike in Italy affecting travel plans; the possibility of accommodation levies in some UK cities; how business travel in Perth, Australia is booming; Air France partnering with Apple TV; Lufthansa's new Allegris upgrades; Air India and the Lufthansa group signing a memorandum of understanding to establish a "joint business agreement"; Kazakhstan’s flag carrier Air Astana finalising the purchase of 15 Boeing 787 Dreamliners; Vietnamese leisure airline Sun PhuQuoc placing an order for 40 (!) Boeing 787 Dreamliners; George Kittle from the San Francisco 49ers having fun with all the travel he's doing; the hidden reason Australia did so well at the Milan Winter Olympics; and Danika Mason showing us all why alcohol and jet lag don't mix.
+
+</br>
+
 ## Episode 53 18/02/2026
 
 {{< youtube id=i-_XWRvuOG4 title="Episode 53">}}
