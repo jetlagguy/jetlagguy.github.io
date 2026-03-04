@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 55 04/03/2026
+
+{{< youtube id=hMr0x8vUbgU title="Episode 55">}}
+
+This week I talk about the current situation in the Middle East and its effect on business travel; the massive shakeup in the Qantas frequent flyer program; Flight Centre looking to boost revenue off the current woes of Corporate Travel Management; the Hypersonix, the world's first 3D-printed, hydrogen-powered, hypersonic scramjet engine, making its first test flight in Virginia; concern around jet lag and hockey players returning from the Winter Olympics; the National Rugby League playing in Las Vegas and the success they've had there; the Socceroos drawing circadian rhythm friendly matches on the US West Coast for the World Cup; and a brilliant hack for not losing your passport!
+
+</br>
+
 ## Episode 54 25/02/2026
 
 {{< youtube id=VSwpAyW4Nvk title="Episode 54">}}
