@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 56 11/03/2026
+
+{{< youtube id=hMr0x8vUbgU title="Episode 56">}}
+
+This week I talk about the big news, the ongoing situation in the Middle East, with most flights in the region cancelled or drastically reduced and airlines including Emirates, Qatar Airways and Etihad have grounded the majority of their flights, and key aviation hubs such as Dubai, Abu Dhabi, Doha and Bahrain suspended;  a sharp spike in flying costs as much as 80%; flight numbers through Asia surging as a result, with an 86% increase in passenger flows in China; Qantas adding an extra service from Sydney to London on Saturdays to help with the increased demand; daylight savings time beginning in the United States and Canada; British Columbia springing forward for the last time as it moves into permanent daylight savings time; Sydney Airport getting a 24/7 gym; Virgin Australia's COVID credits expiring on the 30th of June; London being the most expensive business travel destination; research into how flight departure and duration times impacted jetlag; and Air Japan's "Cheek Splitter 9000" that makes seats unseatable -- for a good reason!
+
+</br>
+
 ## Episode 55 04/03/2026
 
 {{< youtube id=hMr0x8vUbgU title="Episode 55">}}
