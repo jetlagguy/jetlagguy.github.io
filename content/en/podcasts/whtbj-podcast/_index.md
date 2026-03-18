@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 57 18/03/2026
+
+{{< youtube id=D0K2RpSAQQg title="Episode 57">}}
+
+This week I talk about Qatar Airways offering a very limited number of flights; Qantas announcing price increases due to the oil price volatility caused by the war in the Middle East; other airlines following suit (Cathay Pacific, AirAsia and Thai Airways); Emirates and Qatar Airways responding to the current crisis in the Middle East by becoming budget options; Delta retrofitting its aircraft including cabin seating with memory-foam cushions, USB-C type ports, wireless charging capabilities, an accessible gray-scale flight map and jet lag-friendly lighting; Qantas settling a class action for flight credits issued during the COVID-19 ‌pandemic; Vanda Pharmaceuticals share price up a staggering 13.3%; Xand van Tulleken, a British doctor, TV presenter and broadcaster warning against the use of melatonin purchased on the black market; South Korea being defeated 10-0 by the Dominican Republic in the 2026 World Baseball Classic due to jet lag; and a heartwarming story about Qantas staff carrying a toy frog named Frodge in support of a young man undergoing cancer treatment.
+
+</br>
+
 ## Episode 56 11/03/2026
 
 {{< youtube id=qTX9CmsAtSg title="Episode 56">}}
