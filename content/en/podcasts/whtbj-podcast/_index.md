@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 58 25/03/2026
+
+{{< youtube id=LBno4RbmW-8 title="Episode 58">}}
+
+This week I discuss the sad news out of La Guardia Airport in New York with Air Canada Express Flight 8646 from Montreal colliding with a fire truck and killing two; Delta Airlines flight 41 from Los Angeles to Sydney coming into some turbulence shortly before landing, with injuries to four flight attendants; the new Entry/Exit System in Schengen countries causing challenges for international travellers, with passengers at Tours Airport passengers taking over an hour and a half to clear security and missing their flight for Marrakech; British Airways launching daily, year-round services to Melbourne on the Boeing 787-9 via Kuala Lumpur as of January 2027; potentially illegal credit card surcharges at the Hyatt Regency Sydney being investigated by the ACCC; United Airlines CEO Scott Kirby never eating on an overnight transatlantic flight; the Canadian province of British Columbia springing forward for daylight savings time for the last time; the Florida Panthers thrashed by the Seattle Kraken 2-6 due to jet lag; Japan performing poorly in the World Baseball classic because of jet lag; UK ultrarunners competing in India scooping the medal pool because they DID factor in jet lag; and an adorable soft toy at Hobart International Airport that turned out to be very much alive!
+
+</br>
+
 ## Episode 57 18/03/2026
 
 {{< youtube id=D0K2RpSAQQg title="Episode 57">}}
