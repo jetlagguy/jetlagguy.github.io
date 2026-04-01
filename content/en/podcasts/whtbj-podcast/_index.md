@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 59 01/04/2026
+
+{{< youtube id=qvqdZm5A5T4 title="Episode 59">}}
+
+This week I talk about the current situation in the Middle East increasing airfares and the problems of budget airlines in particular; the cost of business trips rising and the trend of “protecting the value of travel rather than the volume, by tightening itineraries and focusing on trips that truly matter”; Wesfarmers suspending business travel for its corporate team members due to the rising costs of international travel; Qatar Airways being rated as #1 in the world by AirlineRatings.com; Qantas’ frequent flyer program making it easier for customers to see how many rewards seats are available over the next 12 months; the new Western Sydney International Airport being open 24/7 helping with jet lag; the Ayush Ministry of India launching a 5-minute in-flight protocol suggesting yoga poses while flying, which will help prevent deep vein thrombosis; research into jet lag for FIFA World Cup players; a potential link between sleep deprivation (including jet lag!) and a negative impact on male fertility; and The 5 AM Club rebranding as the 4 AM Club, which led me down a rabbit hole of conspiracy theories involving parallel universes and witches.
+
+</br>
+
 ## Episode 58 25/03/2026
 
 {{< youtube id=LBno4RbmW-8 title="Episode 58">}}
