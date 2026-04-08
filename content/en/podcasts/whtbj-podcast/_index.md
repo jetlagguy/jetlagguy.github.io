@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 60 08/04/2026
+
+{{< youtube id=IW2CE6klrtw title="Episode 60">}}
+
+This week I talk about Asian travellers looking elsewhere instead of travelling to the Persian Gulf; the new Virgin Atlantic clubhouse at London Heathrow with wellness pods with light therapy to alleviate jet lag; Angelina Jolie triggering conspiracy theories due to jet lag; a New York-based content creator who flew to India for 24 hours; the effect of daylight savings time on people with very sensitive biological clocks; Spain being in a time zone that it doesn’t correspond to its longitude; the potential affect of jet lag on the gut; reserach examining the possibility of liver cancer and circadian disruption; a breakthrough diagnostic test that examines the activity of 17 specific genes in the hair root to determine a person’s chronotype; sports commentator Chris “Mad Dog” Russo's reaction to American football being played in Australia; and the great Kit Kat heist of 2026 when 12 tonnes of Kit Kats were stolen somewhere between Italy and Poland.
+
+</br>
+
 ## Episode 59 01/04/2026
 
 {{< youtube id=qvqdZm5A5T4 title="Episode 59">}}
