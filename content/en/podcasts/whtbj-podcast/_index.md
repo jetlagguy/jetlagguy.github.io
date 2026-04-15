@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 61 15/04/2026
+
+{{< youtube id=KHXxgcZcpnE title="Episode 61">}}
+
+This week I talk about travellers face rising fees, fewer flight options and the need to assess whether a planned trip is worth the cost due to the current situation in the Strait of Hormuz; a fuel shortage that would "significantly harm the European economy"; the EU's new EES system for incoming travellers causing delays; KLM’s first Airbus A350-900 being ready for delivery towards the end of the Summer 2026 schedule; on-time performance for North American carriers deteriorating in the month of March; Qatar Airways expanding its operations, adding flights to Shanghai, Singapore, Kuala Lumpur, Lagos, and the Australian city of Perth; Qantas’ new Project Sunrise connecting Sydney and Melbourne with London directly, bypassing the Gulf completely; the new Western Sydney Airport in Sydney, Australia set to open this year having direct Air New Zealand flights to Auckland; researchers examining a case study of a 48 year old woman who regularly flew between the United Kingdom and Italy; NFL commissioner Roger Goodell visiting Melbourne recently commenting on San Francisco 49ers coach Kyle Shanahan complaints about the long flight to Australia; and Artemis 2 astronauts potentially dealing with constipation due to jet lag.
+
+</br>
+
 ## Episode 60 08/04/2026
 
 {{< youtube id=IW2CE6klrtw title="Episode 60">}}
