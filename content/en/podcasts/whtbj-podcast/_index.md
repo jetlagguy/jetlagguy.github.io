@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 62 22/04/2026
+
+{{< youtube id=JBqLtaxw3b8 title="Episode 62">}}
+
+This week I talk about Europe facing disruptions and having "maybe six weeks of jet fuel left";  Airfares in Australia going up, with decreased supply combined with largely unchanged demand; the refinery blaze in Geelong, Australia producing diesel and jet fuel at reduced levels; Air New Zealand launching its new Skynest sleeping pods on its Boeing 787-9 Dreamliner fleet for long haul flights between Auckland and New York JFK; American Airlines installing new electronic gates at Dallas Fort Worth International Airport that will provide touchscreen instructions, automatically validate boarding passes and regulate the pace of boarding to reduce congestion and improve traffic flow on the jet bridge; Indian charter airline Dove Airlines going into liquidation and ceasing operations; Aer Lingus cancelling more than 500 flights throughout Europe and North America; a potential merger between United Airlines and American Airlines; my book End Jet Lag at  https://mybook.to/2ew5; and Emily Gardner's beloved dog Luna being flown charter across the Atlantic when they moved from the United States to Germany.
+
+</br>
+
 ## Episode 61 15/04/2026
 
 {{< youtube id=KHXxgcZcpnE title="Episode 61">}}
