@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 63 29/04/2026
+
+{{< youtube id=HhKFmNOKkTE title="Episode 63">}}
+
+This week I talk about airlines cancelling flights in Europe due to fuel shortages, including SAS, United Airlines, KLM, Cathay Pacific, HK Express, Asiana Airlines, Lufthansa, Air New Zealand, Norse Atlantic Airways and Vietnam Airlines; Fiji Airways pausing some flights to Australia and the United States; easyJet customer service being extra busy as they reassure customers that flights will still be running; Ryanair flights closing check in desks 20 minutes earlier than previously, meaning that passengers need to check in luggage a full 60 minutes before their flight; Chicago O’Hare having a cap on flight numbers imposed by the US Department of Transportation; dealing with a fear of flying with aviation expert Salim Hijazeen; more research on jet lag and athletes; the NFL is taking American football to Rio de Janeiro; my app called End Jet Lag that, unlike other jet lag apps, factors in your own individual circadian rhythm; and Western Sydney International Airport taking the meaning of the word runway to a whole new level when 22,000 runners ran along the airport runway.
+
+</br>
+
 ## Episode 62 22/04/2026
 
 {{< youtube id=JBqLtaxw3b8 title="Episode 62">}}
