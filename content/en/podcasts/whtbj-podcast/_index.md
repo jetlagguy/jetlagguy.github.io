@@ -11,7 +11,7 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 ## Episode 64 06/05/2026
 
-{{< youtube id=HhKFmNOKkTE title="Episode 63">}}
+{{< youtube id=JLkftvt--M8 title="Episode 63">}}
 
 This week I welcome Qatar Airways back to Australia; say a sad farewell to Spirit Airlines which ceased operations as of the 1 May; offered to help Queen Camilla with her jet lag as she tours the United States; discuss data out of Germany that indicates business travellers are focusing on travel within Europe rather than further afield; Canadian province Alberta remaining on daylight savings time in the footsteps of British Columbia; a prestigious research grant for UT Health San Antonio examining the connection between circadian health and Alzheimer's disease; and Spirit Airlines pilot Jon Jackson being given an impressive retirement party by rival airline Southwest Airlines.
 
