@@ -9,9 +9,17 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 65 13/05/2026
+
+{{< youtube id=Va0Hf_MUw-Q title="Episode 65">}}
+
+This week I talk about geopolitical tension being a key challenge for business travellers; business travel softening over the next six months; increased expenses for airfares, hotels and car rentals; the head of British Airways saying that elevated fuel prices will inevitably lead to lower profits and fares need to be increased; Emirates' Airbus A380 will not returning to either Perth or Prague for the time being; AI being useful for business travel; poor customer satisfaction rating with Australian airlines Qantas, Jetstar and Virgin Australia; research out of Poland in 557 male firefighters finding “an evening chronotype predicted higher subsequent levels of both exhaustion and disengagement”; the NFL's international match plan being leaked; and gratuitous video footage of puppies, because I think we need that at the end of all that gloom and doom!
+
+</br>
+
 ## Episode 64 06/05/2026
 
-{{< youtube id=JLkftvt--M8 title="Episode 63">}}
+{{< youtube id=JLkftvt--M8 title="Episode 64">}}
 
 This week I welcome Qatar Airways back to Australia; say a sad farewell to Spirit Airlines which ceased operations as of the 1 May; offered to help Queen Camilla with her jet lag as she tours the United States; discuss data out of Germany that indicates business travellers are focusing on travel within Europe rather than further afield; Canadian province Alberta remaining on daylight savings time in the footsteps of British Columbia; a prestigious research grant for UT Health San Antonio examining the connection between circadian health and Alzheimer's disease; and Spirit Airlines pilot Jon Jackson being given an impressive retirement party by rival airline Southwest Airlines.
 
