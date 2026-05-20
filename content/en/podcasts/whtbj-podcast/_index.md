@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 66 20/05/2026
+
+{{< youtube id=uFucy6Yhmmo title="Episode 66">}}
+
+This week I talk about the first of 12 planes to be used for non-stop Qantas flights between London and Sydney completed at its factory in Toulouse; Lufthansa upgrading its fleet with Boeing 777Xs; business travel across Asia Pacific being on a strong upward trajectory, mostly led by spending in China; global hotel rates seeing a sharp acceleration during the first quarter of 2026, with Europe being particularly affected; Fiji Airways using red-light therapy and electromagnetic field protection in an attempt to minimise jet lag; Singapore Airlines' new destination of Madrid; LOT Polish Airlines' new direct flights between Warsaw and San Francisco; a passenger being detained and banned from future Qantas travel after biting a flight attendant on a Melbourne - Dallas flight, forcing a diversion to Tahiti; the NFL roster being confirmed, with a lot of international travel for some teams; F1 Driver Lance Stroll's unusual strategy for dealing with jet lag; my new product, an e-learning program for business travellers to minimise their jet lag with a deep discount for a week; and finally, Delta Goodrem's showstopping performance at the Eurovision Song Contest in Vienna on the weekend and displaying no signs of jet lag.
+
+</br>
+
 ## Episode 65 13/05/2026
 
 {{< youtube id=Va0Hf_MUw-Q title="Episode 65">}}
