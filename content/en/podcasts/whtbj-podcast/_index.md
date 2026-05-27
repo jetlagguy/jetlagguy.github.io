@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 67 27/05/2026
+
+{{< youtube id=3u-qzFSAu60 title="Episode 67">}}
+
+This week I talk about EgyptAir receiving its first Boeing 737 MAX for short and medium-haul services to Paris, Brussels, Istanbul, and Vienna from in Cairo; Air Canada acquiring a fleet of Airbus A220s connecting its hubs in Montreal, Vancouver and Toronto to destinations in Central America and the US West Coast; at the soon to be opened Western Sydney International Airport, two major Gulf airlines – Emirates and Qatar Airways – being a step closer to having daily flights from the new airport; a suspicious item found in the luggage at Melbourne’s Avalon Airport which turned out to be a laser hair remover and a tin of cocoa; Melbourne-based AVG Travels emailing more than 200 customers advising them their itineraries were "under review" due to "operational scheduling adjustments", leaving a lot of customers stranded at short notice; Michelle Obama recalling a trip when the family travelled to Moscow and their children had dreadful jet lag; the Chicago White Sox possibly being jetlagged for their last match when they lost 6-1 to the Seattle Mariners; the FIFA World Cup being played in three North American countries and how climate and jet lag have an impact; my online e-learning lessons about jet lag being up with a deep discount for the next few days; and the US TSA having strange advice about what can and cannot be carried on board.
+
+</br>
+
 ## Episode 66 20/05/2026
 
 {{< youtube id=uFucy6Yhmmo title="Episode 66">}}
