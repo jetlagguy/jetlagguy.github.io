@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 68 03/06/2026
+
+{{< youtube id=SITRHw41VrU title="Episode 68">}}
+
+This week I talk about Qantas’ Project Sunrise being delayed; former First Lady Jill Biden's memoir that discussed the time when President Joe Biden performed poorly in his debate against Donald Trump, resulting in his withdrawing from the presidential campaign; the proposed Sunshine Protection Act in the United States, using permanent daylight savings time across the country, has been met with opposition; biohacker Bryan Johnson stating that flying long distances is bad for your health, being "kind of barbaric for the body”; research out of China in mice linking jet lag with obesity-related kidney disease; research linking gut microbiome diversity and social jet lag; the National Football League globalising the game; winners and losers in terms of travel for the upcoming FIFA World Cup; my online e-learning lessons about jet lag being up, with bulk discounts; and "jet lag" thongs that cost only £695.
+
+</br>
+
 ## Episode 67 27/05/2026
 
 {{< youtube id=3u-qzFSAu60 title="Episode 67">}}
