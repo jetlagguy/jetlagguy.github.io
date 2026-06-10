@@ -9,6 +9,14 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 69 10/06/2026
+
+{{< youtube id=JwbKvDUhF90 title="Episode 69">}}
+
+This week I talk about the proposed plan in the United States to force incoming visitors to disclose their social media histories for the last five years and the strong disapproval this has been met with; Melbourne now being the biggest Australian city for business travel for South East Asian business travellers; Ryanair CEO Michael O’Leary calling for alcohol limits in airports; the new EES system causing delays for travellers to and within the European Union, with delays of up to six hours; yet another melatonin contamination scandal, this time in the Republic of Ireland; a new form of fraud called quishing emerging, a blend of QR codes and phishing; some positively terrifying but not surprising research out of France linking poorer patient outcomes to the surgeons' social jet lag; scientists discovering a genetic clock that acts as the master timekeeper of the circadian rhythm in a species of worm; Swiss International Airlines transporting the Swiss football team to Los Angeles in a specially chartered flight that was specially prepared to meet the athletes' needs; the South African football team flying to Mexico City being delayed by visa issues; Sweden's national football team landing in Dallas with orders to stay awake on the plane; my book called End Jet Lag, which is all about ending jet lag; and finally, the best museum in Stockholm to overcome jet lag (hint: it may involve ABBA).
+
+</br>
+
 ## Episode 68 03/06/2026
 
 {{< youtube id=SITRHw41VrU title="Episode 68">}}
