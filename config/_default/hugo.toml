@@ -1,18 +1,18 @@
-baseURL      = 'https://jetlagguy.com.au/'
-title        = 'Dr Steve Jasper'
-languageCode = 'en-au'
-theme        = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+baseURL = 'https://jetlagguy.com.au/'
+title   = 'Dr Steve Jasper'
+locale  = 'en-au'
+theme   = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 
 DefaultContentLanguage = "en"
 contentDir             = "content/en"
 SectionPagesMenu       = "main"
 pagination.pagerSize   = 9
 googleAnalytics        = "G-JQ86ZRY81M"
-enableRobotsTXT     = false
-enableEmoji         = true
-cleanDestinationDir = true
-copyright           = "Dr Steve Jasper"
-enableGitInfo       = true
+enableRobotsTXT        = false
+enableEmoji            = true
+cleanDestinationDir    = true
+copyright              = "Dr Steve Jasper"
+enableGitInfo          = true
 
 [fonts]
     use_google_fonts      = true
