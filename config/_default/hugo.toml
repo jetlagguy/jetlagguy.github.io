@@ -1,7 +1,7 @@
 baseURL = 'https://jetlagguy.com.au/'
 title   = 'Dr Steve Jasper'
 locale  = 'en-au'
-theme   = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+theme = ["github.com/gohugo-ananke/ananke/v2"]
 
 DefaultContentLanguage = "en"
 contentDir             = "content/en"
