@@ -1,0 +1,151 @@
+{{ define "header" }}
+<header class="bg-maroon">
+    <nav class="ph3 ph4-ns pv2">
+        <div class="flex flex-wrap justify-between items-center">
+            <a href="/" class="white-90 link f7 f6-ns b overpass">{{ .Site.BaseURL | replaceRE "^https?://" "" |
+                replaceRE "/$" "" }}</a>
+            <div class="flex flex-wrap">
+                {{ range .Site.Sections }}
+                <a href="{{ .RelPermalink }}" class="white-80 link f7 f6-ns ph2 pv1 hover-bg-black-20 br2 overpass">{{
+                    .LinkTitle }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </nav>
+</header>
+{{ end }}
+
+{{ define "main" }}
+
+<section class="bg-maroon tc pv5 ph3 ph4-ns">
+    <h1 class="f2 f1-l fw4 white-90 mb3 lh-title measure center overpass">Want clarity and peak performance without jet
+        lag?</h1>
+    <p class="f5 f4-l white-80 measure center mb4 lh-copy">
+        Email <a href="mailto:drsteve@jetlagguy.com.au" class="white link underline">drsteve@jetlagguy.com.au</a>
+        or call <a href="tel:+61410479974" class="white link underline">+61 (0) 410 479 974</a>
+        <br><span class="f6 white-60">(Australian East Coast business hours only)</span>
+    </p>
+    <a href="/contact" class="f5 link dim ph4 pv3 mb2 dib white bg-black-30 br-pill overpass">Contact us now</a>
+</section>
+
+<section class="bg-near-white pv5 ph3 ph4-ns">
+    <div class="flex-ns flex-wrap justify-center mw8 center">
+        <div class="w-100 w-third-ns pa3 tc">
+            <h2 class="f3 fw4 maroon overpass mb2">Land Well</h2>
+            <p class="f5 charcoal lh-copy measure center">Reset your body clock fast &mdash; arrive feeling human, not
+                like a zombie.</p>
+        </div>
+        <div class="w-100 w-third-ns pa3 tc">
+            <h2 class="f3 fw4 maroon overpass mb2">Come Home Fully Present</h2>
+            <p class="f5 charcoal lh-copy measure center">Stop bringing jet lag home to your family. Get back to
+                yourself faster.</p>
+        </div>
+        <div class="w-100 w-third-ns pa3 tc">
+            <h2 class="f3 fw4 maroon overpass mb2">Perform at Your Peak From Day One</h2>
+            <p class="f5 charcoal lh-copy measure center">No more foggy pitches or jet-lagged decisions. Sharp the
+                moment you land.</p>
+        </div>
+    </div>
+</section>
+
+<section class="pv5 ph3 ph4-ns tc bg-white">
+    <h2 class="f3 fw4 maroon overpass mb3">The story behind The Jet Lag Guy</h2>
+    <p class="f5 charcoal measure center mb4">Watch the videos:</p>
+    <div class="flex-ns flex-wrap justify-center mw7 center">
+        <div class="w-100 w-50-ns pa3">
+            <div class="landing-video-placeholder br2 mb2"></div>
+            <p class="f6 charcoal overpass">Pack a suitcase</p>
+        </div>
+        <div class="w-100 w-50-ns pa3">
+            <div class="landing-video-placeholder br2 mb2"></div>
+            <p class="f6 charcoal overpass">Burnout</p>
+        </div>
+    </div>
+</section>
+
+<section class="bg-maroon pv5 ph3 ph4-ns tc">
+    <h2 class="f3 fw4 white-90 overpass mb4">Products</h2>
+    <div class="flex-ns flex-wrap justify-center mw8 center">
+        {{ $products := slice
+        (dict "title" "One on One Consulting" "link" "/consulting")
+        (dict "title" "Book" "link" "/book")
+        (dict "title" "Children's Book" "link" "/book")
+        (dict "title" "End Jet Lag App" "link" "/app")
+        (dict "title" "Workshop" "link" "/consulting/workshops")
+        }}
+        {{ range $products }}
+        <div class="w-100 w-third-ns pa3">
+            <a href="{{ .link }}" class="link white-90 hover-white">
+                <div class="pa4 bg-black-20 br2 h-100">
+                    <h3 class="f4 fw4 overpass">{{ .title }}</h3>
+                </div>
+            </a>
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+<section class="pv5 ph3 ph4-ns tc bg-white">
+    <h2 class="f3 fw4 maroon overpass mb4">How to Proceed</h2>
+    <div class="flex-ns flex-wrap justify-center mw8 center">
+        <div class="w-100 w-third-ns pa3">
+            <div class="f1 f-headline-l maroon b mb2">1</div>
+            <h3 class="f4 fw4 overpass charcoal mb2">Book Your Assessment</h3>
+            <p class="f5 charcoal lh-copy measure center">We review your travel schedule and pinpoint where jet lag is
+                costing you the most.</p>
+        </div>
+        <div class="w-100 w-third-ns pa3">
+            <div class="f1 f-headline-l maroon b mb2">2</div>
+            <h3 class="f4 fw4 overpass charcoal mb2">Get Your Tailored Protocol</h3>
+            <p class="f5 charcoal lh-copy measure center">We build a plan around your body clock, your route and your
+                calendar &mdash; no generic advice.</p>
+        </div>
+        <div class="w-100 w-third-ns pa3">
+            <div class="f1 f-headline-l maroon b mb2">3</div>
+            <h3 class="f4 fw4 overpass charcoal mb2">Perform From Day One</h3>
+            <p class="f5 charcoal lh-copy measure center">Land ready to work, present and think clearly, every trip.</p>
+        </div>
+    </div>
+</section>
+
+<section class="pv5 ph3 ph4-ns tc bg-light-gray">
+    <h2 class="f3 fw4 maroon overpass mb3">Engaging content: Articles</h2>
+    <div class="flex-ns flex-wrap justify-center mw7 center">
+        {{ $articles := slice
+        (dict "title" "Owls versus fowls" "ready" false)
+        (dict "title" "East v West" "ready" false)
+        (dict "title" "The power of sunlight" "ready" false)
+        }}
+        {{ range $articles }}
+        <div class="w-100 w-third-ns pa3">
+            <div class="pa3 bg-white br2 h-100">
+                <h3 class="f5 fw4 overpass charcoal">{{ .title }}</h3>
+                {{ if not .ready }}
+                <span class="f7 gray overpass">[NOT YET BUT SOON]</span>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+<section class="pv5 ph3 ph4-ns tc bg-near-white">
+    <h2 class="f3 fw4 maroon overpass mb2">The 3 Jet Lag Mistakes Costing You Your First Day</h2>
+    <p class="f5 charcoal measure center mb4 lh-copy">Most travellers get jet lag wrong before they even board. This
+        quick guide shows you the three mistakes silently wrecking your first 24 hours &mdash; and what to do instead.
+    </p>
+    <a href="#" class="f5 link dim ph4 pv3 dib white bg-maroon br2 overpass">Get the free guide</a>
+</section>
+
+{{ end }}
+
+{{ define "footer" }}
+<footer class="bg-maroon ph3 ph4-ns pv3 tc">
+    <div class="flex flex-wrap justify-center">
+        {{ range .Site.Sections }}
+        <a href="{{ .RelPermalink }}" class="white-80 link f7 f6-ns ph2 pv1 hover-white overpass">{{ .LinkTitle }}</a>
+        {{ end }}
+    </div>
+    <p class="white-60 f7 mt3 overpass">&copy; {{ now.Year }} Dr Steve Jasper</p>
+</footer>
+{{ end }}

@@ -1,0 +1,93 @@
+.bg-maroon {
+    background-color: #8B001D;
+}
+
+.bg-sky-blue {
+    background-color: #8BCCD8;
+}
+
+.charcoal {
+    color: #333132;
+}
+
+.maroon {
+    color: #8B001D;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Overpass+Mono:wght@300..700&family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+
+.overpass {
+    font-family: "Overpass", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.overpass-mono {
+    font-family: "Overpass Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.athelas {
+    font-family: "Overpass", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+table {
+    width: 100%;
+}
+
+.measure-wide {
+    max-width: 40em;
+}
+
+.measure {
+    max-width: 30em;
+}
+
+.measure-narrow {
+    max-width: 20em;
+}
+
+.button-external-link {
+    background-color: #8B001D;
+    border: none;
+    color: white;
+    padding: 16px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    border-radius: 12px;
+}
+
+aside {
+    width: 10em;
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    margin-right: -10em;
+    padding: 0.5em;
+    border-radius: 1em;
+    background-color: #C5E6EC;
+}
+
+/* Landing page */
+.landing-video-placeholder {
+    background-color: #eee;
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+}
+
+.landing-video-placeholder::after {
+    content: "Video";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #999;
+    font-family: "Overpass", sans-serif;
+    font-size: 1rem;
+}

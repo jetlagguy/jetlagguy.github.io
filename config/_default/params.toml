@@ -2,7 +2,8 @@ author                 = "Dr Steve Jasper"
 description            = "The Jet Lag Guy"
 favicon                = "/images/blueclock.png"
 date_format            = ":date_full"
-custom_css             = ["tjlg.scss"]
+[ananke]
+    custom_css = ["tjlg.css"]
 omit_header_text       = true
 text_color             = "charcoal"               # "charcoal", or "dark-gray"
 recent_posts_number    = 3
