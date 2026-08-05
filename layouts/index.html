@@ -18,62 +18,50 @@
 {{ define "main" }}
 
 <section class="bg-maroon tc pv5 ph3 ph4-ns">
-    <h1 class="f2 f1-l fw4 white-90 mb3 lh-title measure center overpass">Want clarity and peak performance without jet
-        lag?</h1>
+    <h1 class="f2 f1-l fw4 white-90 mb3 lh-title measure center overpass">{{ .Params.home.hero_title }}</h1>
     <p class="f5 f4-l white-80 measure center mb4 lh-copy">
-        Email <a href="mailto:drsteve@jetlagguy.com.au" class="white link underline">drsteve@jetlagguy.com.au</a>
-        or call <a href="tel:+61410479974" class="white link underline">+61 (0) 410 479 974</a>
-        <br><span class="f6 white-60">(Australian East Coast business hours only)</span>
+        Email <a href="mailto:{{ .Params.home.hero_contact_email }}" class="white link underline">{{ .Params.home.hero_contact_email }}</a>
+        or call <a href="tel:{{ .Params.home.hero_contact_phone_clean }}" class="white link underline">{{ .Params.home.hero_contact_phone_display }}</a>
+        <br><span class="f6 white-60">{{ .Params.home.hero_contact_note }}</span>
     </p>
-    <a href="/contact" class="f5 link dim ph4 pv3 mb2 dib white bg-black-30 br-pill overpass">Contact us now</a>
+    <a href="{{ .Params.home.hero_button_link }}" class="f5 link dim ph4 pv3 mb2 dib white bg-black-30 br-pill overpass">{{ .Params.home.hero_button_text }}</a>
 </section>
 
 <section class="bg-near-white pv5 ph3 ph4-ns">
     <div class="flex-ns flex-wrap justify-center mw8 center">
+        {{ range .Params.home.features }}
         <div class="w-100 w-third-ns pa3 tc">
-            <h2 class="f3 fw4 maroon overpass mb2">Land Well</h2>
-            <p class="f5 charcoal lh-copy measure center">Reset your body clock fast &mdash; arrive feeling human, not
-                like a zombie.</p>
+            <h2 class="f3 fw4 maroon overpass mb2">{{ .title }}</h2>
+            <p class="f5 charcoal lh-copy measure center">{{ .description }}</p>
         </div>
-        <div class="w-100 w-third-ns pa3 tc">
-            <h2 class="f3 fw4 maroon overpass mb2">Come Home Fully Present</h2>
-            <p class="f5 charcoal lh-copy measure center">Stop bringing jet lag home to your family. Get back to
-                yourself faster.</p>
-        </div>
-        <div class="w-100 w-third-ns pa3 tc">
-            <h2 class="f3 fw4 maroon overpass mb2">Perform at Your Peak From Day One</h2>
-            <p class="f5 charcoal lh-copy measure center">No more foggy pitches or jet-lagged decisions. Sharp the
-                moment you land.</p>
-        </div>
+        {{ end }}
     </div>
 </section>
 
 <section class="pv5 ph3 ph4-ns tc bg-white">
-    <h2 class="f3 fw4 maroon overpass mb3">The story behind The Jet Lag Guy</h2>
-    <p class="f5 charcoal measure center mb4">Watch the videos:</p>
+    <h2 class="f3 fw4 maroon overpass mb3">{{ .Params.home.video_section_title }}</h2>
+    <p class="f5 charcoal measure center mb4">{{ .Params.home.video_section_subtitle }}</p>
     <div class="flex-ns flex-wrap justify-center mw7 center">
+        {{ range .Params.home.videos }}
         <div class="w-100 w-50-ns pa3">
+            {{ with .youtube_id }}
+            <div class="br2 mb2 overflow-hidden" style="position: relative; padding-bottom: 56.25%; height: 0;">
+                <!-- {{/* Built with Hugo's youtube shortcode */}} -->
+                <iframe src="https://www.youtube-nocookie.com/embed/{{ . }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen loading="lazy" title="YouTube Video"></iframe>
+            </div>
+            {{ else }}
             <div class="landing-video-placeholder br2 mb2"></div>
-            <p class="f6 charcoal overpass">Pack a suitcase</p>
+            {{ end }}
+            <p class="f6 charcoal overpass">{{ .title }}</p>
         </div>
-        <div class="w-100 w-50-ns pa3">
-            <div class="landing-video-placeholder br2 mb2"></div>
-            <p class="f6 charcoal overpass">Burnout</p>
-        </div>
+        {{ end }}
     </div>
 </section>
 
 <section class="bg-maroon pv5 ph3 ph4-ns tc">
-    <h2 class="f3 fw4 white-90 overpass mb4">Products</h2>
+    <h2 class="f3 fw4 white-90 overpass mb4">{{ .Params.home.products_section_title }}</h2>
     <div class="flex-ns flex-wrap justify-center mw8 center">
-        {{ $products := slice
-        (dict "title" "One on One Consulting" "link" "/consulting")
-        (dict "title" "Book" "link" "/book")
-        (dict "title" "Children's Book" "link" "/book")
-        (dict "title" "End Jet Lag App" "link" "/app")
-        (dict "title" "Workshop" "link" "/consulting/workshops")
-        }}
-        {{ range $products }}
+        {{ range .Params.home.products }}
         <div class="w-100 w-third-ns pa3">
             <a href="{{ .link }}" class="link white-90 hover-white">
                 <div class="pa4 bg-black-20 br2 h-100">
@@ -86,41 +74,30 @@
 </section>
 
 <section class="pv5 ph3 ph4-ns tc bg-white">
-    <h2 class="f3 fw4 maroon overpass mb4">How to Proceed</h2>
+    <h2 class="f3 fw4 maroon overpass mb4">{{ .Params.home.steps_section_title }}</h2>
     <div class="flex-ns flex-wrap justify-center mw8 center">
+        {{ range .Params.home.steps }}
         <div class="w-100 w-third-ns pa3">
-            <div class="f1 f-headline-l maroon b mb2">1</div>
-            <h3 class="f4 fw4 overpass charcoal mb2">Book Your Assessment</h3>
-            <p class="f5 charcoal lh-copy measure center">We review your travel schedule and pinpoint where jet lag is
-                costing you the most.</p>
+            <div class="f1 f-headline-l maroon b mb2">{{ .number }}</div>
+            <h3 class="f4 fw4 overpass charcoal mb2">{{ .title }}</h3>
+            <p class="f5 charcoal lh-copy measure center">{{ .description }}</p>
         </div>
-        <div class="w-100 w-third-ns pa3">
-            <div class="f1 f-headline-l maroon b mb2">2</div>
-            <h3 class="f4 fw4 overpass charcoal mb2">Get Your Tailored Protocol</h3>
-            <p class="f5 charcoal lh-copy measure center">We build a plan around your body clock, your route and your
-                calendar &mdash; no generic advice.</p>
-        </div>
-        <div class="w-100 w-third-ns pa3">
-            <div class="f1 f-headline-l maroon b mb2">3</div>
-            <h3 class="f4 fw4 overpass charcoal mb2">Perform From Day One</h3>
-            <p class="f5 charcoal lh-copy measure center">Land ready to work, present and think clearly, every trip.</p>
-        </div>
+        {{ end }}
     </div>
 </section>
 
 <section class="pv5 ph3 ph4-ns tc bg-light-gray">
-    <h2 class="f3 fw4 maroon overpass mb3">Engaging content: Articles</h2>
+    <h2 class="f3 fw4 maroon overpass mb3">{{ .Params.home.articles_section_title }}</h2>
     <div class="flex-ns flex-wrap justify-center mw7 center">
-        {{ $articles := slice
-        (dict "title" "Owls versus fowls" "ready" false)
-        (dict "title" "East v West" "ready" false)
-        (dict "title" "The power of sunlight" "ready" false)
-        }}
-        {{ range $articles }}
+        {{ range .Params.home.articles }}
         <div class="w-100 w-third-ns pa3">
             <div class="pa3 bg-white br2 h-100">
+                {{ if .ready }}
+                <a href="{{ .link }}" class="link maroon hover-dark-red">
+                    <h3 class="f5 fw4 overpass charcoal">{{ .title }}</h3>
+                </a>
+                {{ else }}
                 <h3 class="f5 fw4 overpass charcoal">{{ .title }}</h3>
-                {{ if not .ready }}
                 <span class="f7 gray overpass">[NOT YET BUT SOON]</span>
                 {{ end }}
             </div>
@@ -130,11 +107,9 @@
 </section>
 
 <section class="pv5 ph3 ph4-ns tc bg-near-white">
-    <h2 class="f3 fw4 maroon overpass mb2">The 3 Jet Lag Mistakes Costing You Your First Day</h2>
-    <p class="f5 charcoal measure center mb4 lh-copy">Most travellers get jet lag wrong before they even board. This
-        quick guide shows you the three mistakes silently wrecking your first 24 hours &mdash; and what to do instead.
-    </p>
-    <a href="#" class="f5 link dim ph4 pv3 dib white bg-maroon br2 overpass">Get the free guide</a>
+    <h2 class="f3 fw4 maroon overpass mb2">{{ .Params.home.mistakes_title }}</h2>
+    <p class="f5 charcoal measure center mb4 lh-copy">{{ .Params.home.mistakes_description }}</p>
+    <a href="{{ .Params.home.mistakes_button_link }}" class="f5 link dim ph4 pv3 dib white bg-maroon br2 overpass">{{ .Params.home.mistakes_button_text }}</a>
 </section>
 
 {{ end }}
