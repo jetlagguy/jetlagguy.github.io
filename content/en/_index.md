@@ -50,6 +50,12 @@ home:
       description: Land ready to work, present and think clearly, every trip.
   articles_section_title: "Engaging content: Articles"
   articles:
+    - title: "Why I dress like Dolly Parton"
+      link: "/articles/260911-dolly-parton/"
+      ready: true
+    - title: Alcohol
+      link: "/articles/260911-alcohol/"
+      ready: true
     - title: Owls versus fowls
       ready: false
       link: "/blog/owls-versus-fowls/"
