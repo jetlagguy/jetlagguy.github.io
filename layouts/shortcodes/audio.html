@@ -1,0 +1,22 @@
+{{ $src := .Get "src" }}
+{{ $file := .Page.Resources.GetMatch $src }}
+
+<div class="mv4 pa3 bg-near-white br2">
+    {{ if $file }}
+    <!-- Found in Page Bundle -->
+    <audio controls class="w-100" preload="metadata">
+        <source src="{{ $file.RelPermalink }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    {{ else }}
+    <!-- Fallback to Static Folder -->
+    <audio controls class="w-100" preload="metadata">
+        <source src="{{ $src | relURL }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    {{ end }}
+
+    {{ with .Get "caption" }}
+    <p class="f6 i gray mt2 mb0">{{ . }}</p>
+    {{ end }}
+</div>
