@@ -9,6 +9,30 @@ The podcast has been running since the beginning of 2025! Follow the links below
 
 </br>
 
+## Episode 72 24/09/2026
+
+{{< youtube id=sBx4cgaxaeM title="Episode 72">}}
+
+This week I talk about Istanbul Airport being named the world's most connected airport; EgyptAir's new direct link between Cairo, Singapore, and Sydney from early 2027; Jetstar launching the first direct route between Australia and Sri Lanka, Melbourne to Colombo; sad news out of Saudi Arabia with the bombing of King Khalid International Airport in Riyadh; Corporate Travel Management returning to the ASX after more than a year off the exchange following a scandal in which it overcharged clients; the recent NFL game between the Rams and 49ers at the Melbourne Cricket Ground in Melbourne that became a perfect real-world case study in jet lag; my new offering on EveryExpert; and Nashville's international airport being renamed it after the late Dolly Parton. Then there's an interview I did with ABC Radio Darwin on Monday 14 September about the match between the San Francisco 49ers and the Los Angeles Rams.
+
+</br>
+
+## Episode 71 19/09/2026
+
+{{< youtube id=gojPZ9EkIoQ title="Episode 71">}}
+
+This week I talk about the big NFL match between the San Francisco 49ers and the Los Angeles Rams, and the implications for jet lag; a disruptive passenger on a flight from Dallas to Newark that was diverted to Baltimore; a study of melatonin use in over 100,000 people indicating a 90% increased risk of heart failure; and an interview I did with ABC Radio Melbourne on 6 Sep 2026 about the NFL match in Australia.
+
+</br>
+
+## Episode 70 17/06/2026
+
+{{< youtube id=5XNKA5tnZvw title="Episode 70">}}
+
+This week I talk about more news regarding Corporate Travel Management; Zinc Airlines, a proposed ultra-low-cost carrier in Australia; a Destiny's Child interview from 25 years ago where everyone was jetlagged; a research paper that outlines “Sleep-Centric Preparation for Teams travelling to Australia for Football tournaments”; advice if you're up late watching the FIFA World Cup; Turkey's defeat by Australia at the World Cup; my book to help kids understand jet lag; and superstar stewardess Pam Ann declaring that “jet lag is for pussies”.
+
+</br>
+
 ## Episode 69 10/06/2026
 
 {{< youtube id=JwbKvDUhF90 title="Episode 69">}}
